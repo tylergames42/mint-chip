@@ -35,15 +35,15 @@ villagerSnoreChance = 0.2978017769607842
 villagerSnoreSoundVolume = 1.0
 villagersHaveSleepingZs = true
 foxesHaveSleepingZs = true
-batsHaveSleepingZs = true
+batsHaveSleepingZs = false
 catsHaveSleepingZs = true
-otherMobsHaveSleepingZs = true
+otherMobsHaveSleepingZs = false
 displaySleepingZsOnlyWhenSnoring = false
 adjustNameTagWhenSleeping = true
 
 [humanoids]
 drowningBubblesDisplayType = "DEFAULT"
-drowningBubblesDensity = 10
+drowningBubblesDensity = 6
 drowningBubbleAlpha = 1.0
 potionRingsDisplayType = "DEFAULT"
 potionRingsParticleType = "BOTH"
@@ -51,7 +51,7 @@ NPCsHavePotionRings = true
 
 [humanoids.frostyBreath]
 displayType = "DEFAULT"
-alpha = 0.5
+alpha = 0.4
 waitTime = 100
 seasons = "WINTER_ONLY"
 additionalBiomes = [  ]
@@ -60,7 +60,7 @@ additionalBiomes = [  ]
 stomachGrowlingThreshold = 6
 stomachGrowlingVolume = 1.0
 heartBeatingThreshold = 6
-heartbeatVolume = 1.0
+heartbeatVolume = 0.8
 
 [dustClouds]
 scale = 2.0

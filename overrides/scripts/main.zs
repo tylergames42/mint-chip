@@ -6,6 +6,16 @@ import crafttweaker.api.item.ItemDefinition;
 //Altimeter compat
 <tag:items:supplementaries:altimeters>.add(<item:caverns_and_chasms:depth_gauge>);
 
+//Silver Replacement (Test)
+Replacer.create().replace<IIngredient>(<recipecomponent:crafttweaker:input/ingredients>, <item:caverns_and_chasms:silver_ingot>, <item:oreganized:silver_ingot>).execute();
+Replacer.create().replace<IIngredient>(<recipecomponent:crafttweaker:input/ingredients>, <item:galosphere:silver_ingot>, <item:oreganized:silver_ingot>).execute();
+
+Replacer.create().replace<IIngredient>(<recipecomponent:crafttweaker:input/ingredients>, <item:caverns_and_chasms:raw_silver>, <item:oreganized:raw_silver>).execute();
+Replacer.create().replace<IIngredient>(<recipecomponent:crafttweaker:input/ingredients>, <item:galosphere:raw_silver>, <item:oreganized:raw_silver>).execute();
+
+Replacer.create().replace<IIngredient>(<recipecomponent:crafttweaker:input/ingredients>, <item:caverns_and_chasms:silver_block>, <item:oreganized:silver_block>).execute();
+Replacer.create().replace<IIngredient>(<recipecomponent:crafttweaker:input/ingredients>, <item:galosphere:silver_block>, <item:oreganized:silver_block>).execute();
+
 //Silver compat
 //recipes.remove(<item:caverns_and_chasms:silver_ingot>);
 recipes.removeByName("caverns_and_chasms:silver_ingot_from_smelting_soul_silver_ore");
@@ -93,6 +103,7 @@ recipes.removeByName("supplementaries:slime_ball");
 
 //Remove Astral Potion Recipe
 brewing.removeRecipeByOutputPotion(<potion:galosphere:astral>);
+brewing.removeRecipeByOutputPotion(<potion:galosphere:long_astral>);
 
 //Tuning Fork
 recipes.removeByName("caverns_and_chasms:tuning_fork");

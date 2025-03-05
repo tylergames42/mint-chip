@@ -143,17 +143,6 @@
         "value": 100
       }
     },
-    "vminus:health_lost_stat_boost": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "caverns_and_chasms:magic_damage": {
       "enabled": false,
       "min": {
@@ -163,6 +152,17 @@
       "max": {
         "default": 30,
         "value": 30
+      }
+    },
+    "vminus:health_lost_stat_boost": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -209,17 +209,6 @@
         "value": 1000000
       }
     },
-    "vminus:mob_detection_range": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 0,
-        "value": 0
-      }
-    },
     "reach-entity-attributes:attack_range": {
       "enabled": false,
       "min": {
@@ -229,6 +218,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "vminus:mob_detection_range": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 0,
+        "value": 0
       }
     },
     "vminus:magic_protection": {

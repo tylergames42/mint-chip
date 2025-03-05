@@ -16,8 +16,8 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "upgrade_aquatic:bedroll",
-    "upgrade_aquatic:white_bedroll",
+	"upgrade_aquatic:bedroll",
+	"upgrade_aquatic:white_bedroll",
 	"upgrade_aquatic:orange_bedroll",
 	"upgrade_aquatic:magenta_bedroll",
 	"upgrade_aquatic:light_blue_bedroll",
@@ -33,8 +33,7 @@
 	"upgrade_aquatic:green_bedroll",
 	"upgrade_aquatic:red_bedroll",
 	"upgrade_aquatic:black_bedroll",
-	"supplementaries:altimeter",
-	"spelunkery:depth_gauge",
+	"supplementaries:altimeter", "spelunkery:depth_gauge",
 	"caverns_and_chasms:golden_bucket",
 	"caverns_and_chasms:golden_lava_bucket",
 	"caverns_and_chasms:golden_water_bucket",
@@ -65,8 +64,6 @@
 	"galosphere:sterling_leggings",
 	"galosphere:sterling_boots",
 	"galosphere:sterling_horse_armor",
-	"galosphere:silver_bomb",
-	"galosphere:combustion_table",
 	"caverns_and_chasms:netherite_nugget",
 	"caverns_and_chasms:copper_nugget",
 	"copperative:copper_nugget",
@@ -85,7 +82,7 @@
   // 	
   // 	 You can also use regular expressions by starting the value with !
   "blacklisted_nbt": [
-	"Potion:\"galosphere:astral\"",
+	"Potion:"galosphere:astral""
   ],
   // -----------------------------------------------------------
   // Items here will not be able to be right-clicked (Interact)

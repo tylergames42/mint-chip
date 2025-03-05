@@ -89,12 +89,10 @@ to make editing this file much easier.
 			"caverns_and_chasms:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
 			"caverns_and_chasms:silver_ore": "oreganized:silver_ore",
 			"caverns_and_chasms:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
-			"galosphere:silver_ore": "oreganized:silver_ore",
-			"galosphere:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
 			"quark:permafrost": "immersive_weathering:permafrost",
 			"endergetic:cracked_end_stone_bricks": "immersive_weathering:cracked_end_stone_bricks",
 			"environmental:plum_leaf_pile": "immersive_weathering:environmental/plum_leaf_pile",
 			"environmental:cheerful_plum_leaf_pile": "immersive_weathering:environmental/cheerful_plum_leaf_pile",
-			"environmental:moody_plum_leaf_pile": "immersive_weathering:environmental/moody_plum_leaf_pile"
+			"environmental:moody_plum_leaf_pile": "immersive_weathering:environmental/moody_plum_leaf_pile",
 	   	}
 }

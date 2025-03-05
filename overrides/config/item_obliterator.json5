@@ -16,8 +16,8 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "upgrade_aquatic:bedroll",
-    "upgrade_aquatic:white_bedroll",
+	"upgrade_aquatic:bedroll",
+	"upgrade_aquatic:white_bedroll",
 	"upgrade_aquatic:orange_bedroll",
 	"upgrade_aquatic:magenta_bedroll",
 	"upgrade_aquatic:light_blue_bedroll",
@@ -52,30 +52,14 @@
 	"caverns_and_chasms:polished_tuff",
 	"caverns_and_chasms:polished_tuff_stairs",
 	"caverns_and_chasms:polished_tuff_slab",
-	"caverns_and_chasms:cut_amethyst",
-	"caverns_and_chasms:cut_amethyst_bricks",
-	"caverns_and_chasms:cut_amethyst_brick_stairs",
-	"caverns_and_chasms:cut_amethyst_brick_slab",
-	"caverns_and_chasms:cut_amethyst_brick_wall",
-	"galosphere:barometer",
-	"galosphere:silver_lattice",
-	"galosphere:silver_upgrade_smithing_template",
-	"galosphere:sterling_helmet",
-	"galosphere:sterling_chestplate",
-	"galosphere:sterling_leggings",
-	"galosphere:sterling_boots",
-	"galosphere:sterling_horse_armor",
-	"galosphere:silver_bomb",
-	"galosphere:combustion_table",
 	"caverns_and_chasms:netherite_nugget",
 	"caverns_and_chasms:copper_nugget",
 	"copperative:copper_nugget",
 	"quark:carved_mud_bricks",
+	"supplementaries:candle_holder_ender",
+	"supplementaries:candle_holder_cupric",
 	"suppsquared:gold_candle_holder_ender",
-	"suppsquared:gold_candle_holder_cupric",
-	"environmental:plum_leaf_pile",
-	"environmental:cheerful_plum_leaf_pile",
-	"environmental:moody_plum_leaf_pile"
+	"suppsquared:gold_candle_holder_cupric"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -84,9 +68,7 @@
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
   // 	
   // 	 You can also use regular expressions by starting the value with !
-  "blacklisted_nbt": [
-	"Potion:\"galosphere:astral\"",
-  ],
+  "blacklisted_nbt": [],
   // -----------------------------------------------------------
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple

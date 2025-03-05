@@ -197,8 +197,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -237,8 +237,8 @@
 		#Allowed values: [0,1]
 		"Fall Damage Multiplier" = 0.5
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -246,8 +246,8 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -266,8 +266,8 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -1732,7 +1732,7 @@
 		#Makes Boats not glide on ice
 		"Disable Ice Roads" = true
 		#Makes Sheep not drop Wool when killed
-		"Disable Wool Drops" = true
+		"Disable Wool Drops" = false
 		#Disables mob griefing for only specific entities
 		"Enable Selective Mob Griefing" = false
 		#Force Elytra to only work in specific dimensions
@@ -1742,13 +1742,13 @@
 		#Fixes several piston physics exploits, most notably including TNT duping
 		"Disable Piston Physics Exploits" = false
 		#Fixes mushroom growth being able to replace blocks
-		"Disable Mushroom Block Removal" = false
+		"Disable Mushroom Block Removal" = true
 		#Makes tripwire hooks unable to be duplicated
-		"Disable Tripwire Hook Dupe" = false
+		"Disable Tripwire Hook Dupe" = true
 		#Makes villages spawn less often when close to spawn
 		"Village Spawn Nerf" = false
 		#Distance at which villages will spawn as normal. Effect scales linearly from world spawn
-		"Village Spawn Nerf Distance" = 4000
+		"Village Spawn Nerf Distance" = 5000
 		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
 		"Elytra Allowed Dimensions" = ["minecraft:the_end"]
 
@@ -1864,25 +1864,25 @@
 
 	[oddities.matrix_enchanting]
 		#The maximum enchanting power the matrix enchanter can accept
-		"Max Bookshelves" = 30
+		"Max Bookshelves" = 24
 		#Should this be X, the price of a piece increase by 1 every X pieces you generate
-		"Piece Price Scale" = 6
+		"Piece Price Scale" = 9
 		#The higher this is, the better enchantments you'll get on books
-		"Book Enchantability" = 14
+		"Book Enchantability" = 12
 		#How many pieces you can generate without any bookshelves
-		"Base Max Piece Count" = 5
+		"Base Max Piece Count" = 3
 		#How many pieces you can generate without any bookshelves (for Books)
-		"Base Max Piece Count Book" = 3
+		"Base Max Piece Count Book" = 1
 		#At which piece count the calculation for the min level should default to increasing one per piece rather than using the scale factor
 		"Min Level Cutoff" = 8
 		#How many pieces a single Lapis can generate
-		"Charge Per Lapis" = 1
+		"Charge Per Lapis" = 3
 		#How much the min level requirement for adding a new piece should increase for each piece added (up until the value of Min Level Cutoff)
 		"Min Level Scale Factor" = 1.2
 		#How much the min level requirement for adding a new piece to a book should increase per each bookshelf being used
-		"Min Level Scale Factor Book" = 1.5
+		"Min Level Scale Factor Book" = 2.0
 		#How much to multiply the frequency of pieces where at least one of the same type has been generated
-		"Dupe Multiplier" = 1.5
+		"Dupe Multiplier" = 1.4
 		#How much to multiply the frequency of pieces where incompatible pieces have been generated
 		"Incompatible Multiplier" = 0.0
 		#Set to false to disable the ability to create Enchanted Books
@@ -1912,9 +1912,9 @@
 		#Set to false to disable the ability to influence enchantment outcomes with candles
 		"Allow Influencing" = true
 		#The max amount of candles that can influence a single enchantment
-		"Influence Max" = 5
+		"Influence Max" = 4
 		#How much each candle influences an enchantment. This works as a multiplier to its weight
-		"Influence Power" = 0.3
+		"Influence Power" = 0.125
 		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
 		"Automatically Convert" = true
 

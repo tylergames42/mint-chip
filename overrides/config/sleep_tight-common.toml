@@ -33,7 +33,7 @@
 [bedbugs]
 	#Base spawn chance every time you wake up, increases with difficulty
 	#Range: 0.0 ~ 1.0
-	spawn_chance = 0.0
+	spawn_chance = 0.1
 	#max radius at which they can spawn
 	#Range: 1 ~ 64
 	max_spawn_radius = 24
@@ -47,9 +47,9 @@
 	#Range: 0 ~ 1000
 	tries = 16
 	#Prevents bedbugs when using dream essence
-	prevented_by_dream_essence = true
+	prevented_by_dream_essence = false
 	#Only spawns bedbugs when sleeping in your home bed
-	only_when_in_home_bed = true
+	only_when_in_home_bed = false
 
 [sleep_cooldown]
 	#Time before you can sleep/rest again after you've slept in a hammock

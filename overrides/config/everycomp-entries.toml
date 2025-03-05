@@ -1,0 +1,156 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.stone_type]
+
+		[types.stone_type.quark]
+			permafrost = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+			soul_sandstone = true
+			midori = true
+			duskbound = true
+
+		[types.stone_type.supplementaries]
+			ash = true
+
+		[types.stone_type.spelunkery]
+			nephrite = true
+
+		[types.stone_type.outer_end]
+			himmel = true
+
+		[types.stone_type.wetland_whimsy]
+			limestone = true
+
+	[types.wood_type]
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.environmental]
+			willow = true
+			pine = true
+			plum = true
+			wisteria = true
+
+		[types.wood_type.endergetic]
+			poise = true
+
+		[types.wood_type.atmospheric]
+			rosewood = true
+			morado = true
+			yucca = true
+			aspen = true
+			laurel = true
+			kousa = true
+			grimwood = true
+
+		[types.wood_type.outer_end]
+			azure = true
+
+		[types.wood_type.wetland_whimsy]
+			bald_cypress = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.environmental]
+			hibiscus = true
+			willow = true
+			pine = true
+			plum = true
+			cheerful_plum = true
+			moody_plum = true
+			wisteria = true
+			pink_wisteria = true
+			blue_wisteria = true
+			purple_wisteria = true
+			white_wisteria = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = true
+			morado = true
+			flowering_morado = true
+			yucca = true
+			aspen = true
+			green_aspen = true
+			laurel = true
+			dry_laurel = true
+			kousa = true
+			currant = true
+			grimwood = true
+
+		[types.leaves_type.outer_end]
+			azure = true
+
+		[types.leaves_type.wetland_whimsy]
+			bald_cypress = true
+
+	[types.cake]
+
+		[types.cake.neapolitan]
+			vanilla_cake = true
+			chocolate_cake = true
+			strawberry_cake = true
+			banana_cake = true
+			mint_cake = true
+			adzuki_cake = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			post = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			trapped_chest = true
+			bookshelf = true
+			hollow_log = true
+			vertical_slab = true
+
+		[entries.wood_type.boatload]
+			large_boat = true
+			furnace_boat = true
+
+		[entries.wood_type.another_furniture]
+			table = true
+			flower_box = true
+			shelf = true
+			drawer = true
+			shutter = true
+			bench = true
+			chair = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+

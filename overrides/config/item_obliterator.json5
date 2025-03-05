@@ -1,0 +1,98 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+	"upgrade_aquatic:bedroll",
+	"upgrade_aquatic:white_bedroll",
+	"upgrade_aquatic:orange_bedroll",
+	"upgrade_aquatic:magenta_bedroll",
+	"upgrade_aquatic:light_blue_bedroll",
+	"upgrade_aquatic:yellow_bedroll",
+	"upgrade_aquatic:lime_bedroll",
+	"upgrade_aquatic:pink_bedroll",
+	"upgrade_aquatic:gray_bedroll",
+	"upgrade_aquatic:light_gray_bedroll",
+	"upgrade_aquatic:cyan_bedroll",
+	"upgrade_aquatic:purple_bedroll",
+	"upgrade_aquatic:blue_bedroll",
+	"upgrade_aquatic:brown_bedroll",
+	"upgrade_aquatic:green_bedroll",
+	"upgrade_aquatic:red_bedroll",
+	"upgrade_aquatic:black_bedroll",
+	"supplementaries:altimeter",
+	"spelunkery:depth_gauge",
+	"caverns_and_chasms:golden_bucket",
+	"caverns_and_chasms:golden_lava_bucket",
+	"caverns_and_chasms:golden_water_bucket",
+	"caverns_and_chasms:golden_milk_bucket",
+	"caverns_and_chasms:golden_powder_snow_bucket",
+	"caverns_and_chasms:calcite_stairs",
+	"caverns_and_chasms:calcite_slab",
+	"caverns_and_chasms:calcite_wall",
+	"caverns_and_chasms:polished_calcite",
+	"caverns_and_chasms:polished_calcite_stairs",
+	"caverns_and_chasms:polished_calcite_slab",
+	"caverns_and_chasms:tuff_stairs",
+	"caverns_and_chasms:tuff_slab",
+	"caverns_and_chasms:tuff_wall",
+	"caverns_and_chasms:polished_tuff",
+	"caverns_and_chasms:polished_tuff_stairs",
+	"caverns_and_chasms:polished_tuff_slab",
+	"caverns_and_chasms:netherite_nugget",
+	"caverns_and_chasms:copper_nugget",
+	"copperative:copper_nugget",
+	"quark:carved_mud_bricks",
+	"supplementaries:candle_holder_ender",
+	"supplementaries:candle_holder_cupric",
+	"suppsquared:gold_candle_holder_ender",
+	"suppsquared:gold_candle_holder_cupric"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}

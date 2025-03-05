@@ -1,0 +1,7 @@
+{
+    "items": [
+        "galosphere:raw_silver_ingot",
+        "caverns_and_chasms:raw_silver_ingot"
+    ],
+	"replace": "oreganized:raw_silver_ingot"
+}

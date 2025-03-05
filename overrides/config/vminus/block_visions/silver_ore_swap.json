@@ -1,0 +1,7 @@
+{
+    "blocks": [
+        "galosphere:silver_ore",
+        "caverns_and_chasms:silver_ore"
+    ],
+	"replace": "oreganized:silver_ore"
+}

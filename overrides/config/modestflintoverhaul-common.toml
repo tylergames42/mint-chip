@@ -1,0 +1,20 @@
+
+[Fortune]
+	#This is a chance (in percents) that is added to a base chance that a piece of flint will drop from gravel block when using Fortune I tool. You set chances for Fortune I and Fortune II here, and mod will extrapolate for levels three and onward.
+	#Range: 1 ~ 100
+	"Flint drop chance + bonus for Fortune I" = 40
+	#This is a chance (in percents) that is added to a base chance that a piece of flint will drop from gravel block when using Fortune II tool. If you go over 100%, it's fine. Default is 120 (30% chance without fortune plus 90% for FortuneII), meaning 12 flint pieces from 10 gravel blocks.
+	#Range: 1 ~ 100
+	"Flint drop chance + bonus for Fortune II" = 90
+
+[Main]
+	#This is a chance (in percents) that a piece of flint will drop from gravel block. 30 or 40 is recommended because you can't get more from gravel blocks that drop.
+	#Range: 1 ~ 100
+	"Flint drop chance without Fortune" = 30
+
+[Dispenser]
+	#Gravel blocks' dispenser behavior is disabled if you don't use Quark or Botania mods. Set this to true to enable gravel being placed as blocks in front of dispenser, even without those two mods.
+	"Dispenser override - enable" = false
+	#Gravel blocks' dispenser behavior is enabled if you are using Quark or Botania mods. Set this to true to disable gravel being placed as blocks in front of dispenser. The reason for all this is that it is rather bothersome to check other mod's config.
+	"Dispenser override - disable" = false
+

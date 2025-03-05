@@ -1,0 +1,24 @@
+version:3465
+autoJump:false
+operatorItemsTab:true
+forceUnicodeFont:false
+invertYMouse:false
+realmsNotifications:false
+directionalAudio:true
+renderDistance:10
+simulationDistance:10
+entityDistanceScaling:1.0
+guiScale:0
+particles:0
+ao:true
+prioritizeChunkUpdates:0
+biomeBlendRadius:2
+resourcePacks:["vanilla","mod_resources","default_seamless","Moonlight Mods Dynamic Assets","fabric","continuity:glass_pane_culling_fix","file/Authentic Shadows_1.20.zip","file/FreshAnimations_v1.9.2.zip","file/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip","file/AL\u0027s Creepers Revamped 1.3.zip","file/FA+Emissive-v1.2.zip","file/FA+Quivers-v1.1.zip","file/FA+Spiders-v1.1.zip","file/Fresh Skeleton Physics.zip","file/Fresh Wolve Variants 1.1.zip","file/BatBackport-16x-v1.1.0.zip","file/Connected Paths v1.2.zip","file/Fancy Crops v1.1.zip","file/Fine Armoury v1.3 f8-34.zip","file/Os\u0027 Amethyst Indicator.zip","file/Unified Zombies.zip","file/visual-armor-trims-v1.1-1.20.X.zip","file/§aChests§8-§aReimagined§0_§8[v1.6.1]§0.zip","heartstone:heart_particles","minecraft:supporteatinganimation","supplementaries:darker_ropes","itemswapper:default","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Mint Chip Reources"]
+incompatibleResourcePacks:["file/AL\u0027s Creepers Revamped 1.3.zip","file/Fresh Skeleton Physics.zip","file/Fresh Wolve Variants 1.1.zip","file/BatBackport-16x-v1.1.0.zip","file/Fancy Crops v1.1.zip","file/Fine Armoury v1.3 f8-34.zip","file/Unified Zombies.zip","file/visual-armor-trims-v1.1-1.20.X.zip"]
+skipMultiplayerWarning:true
+syncChunkWrites:true
+showAutosaveIndicator:true
+allowServerListing:true
+onlyShowSecureChat:false
+panoramaScrollSpeed:1.0
+telemetryOptInExtra:false

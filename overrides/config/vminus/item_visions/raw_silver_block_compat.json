@@ -1,0 +1,7 @@
+{
+    "items": [
+        "galosphere:raw_silver_block",
+        "caverns_and_chasms:raw_silver_block"
+    ],
+	"replace": "oreganized:raw_silver_block"
+}

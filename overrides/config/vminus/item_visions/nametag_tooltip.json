@@ -1,0 +1,11 @@
+{
+    "items": [
+        "minecraft:name_tag"
+    ],
+    "tooltip": [
+        {
+            "value": "§8[§7Use§8] to rename",
+            "position": "start"
+        }
+    ]
+}

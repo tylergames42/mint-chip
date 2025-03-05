@@ -1,0 +1,8 @@
+{
+	"match": {
+		"type": "spelunkery:glowstick"
+	},
+	"luminance": {
+		"type": "lambdynlights:arrow/item_derived"
+	}
+}

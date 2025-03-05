@@ -1,0 +1,3688 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.3",
+  "name": "Mint Chip Testing",
+  "summary": "A Vanilla+ modpack which focuses on revamping and adding onto the base game to create a polished and immersive experience.",
+  "files": [
+    {
+      "path": "resourcepacks/FreshAnimations_v1.9.2.zip",
+      "hashes": {
+        "sha1": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2",
+        "sha512": "97a387112a5a94b0e7f4d0d2439977a9f28579303ad883ed3d0fcc3277357f8b3ab2418960f698d1a5f435903e0b2f82716fc92f8500cac090f900b2d2135dcf"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
+      ],
+      "fileSize": 516256
+    },
+    {
+      "path": "mods/scaffoldingdropsnearby-1.20.1-3.4.jar",
+      "hashes": {
+        "sha512": "b90047f592a8e5dc2a1a61ab1349882163cacf507c36965bd66ad62415a8d6ebd2218464184403cabd5c64437f73c91910110b480ff38f09cb9ded04848317b6",
+        "sha1": "ccf0ce7778f3207731810cfb705158713c5e9d3d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uO522mgw/versions/PrrHinLr/scaffoldingdropsnearby-1.20.1-3.4.jar"
+      ],
+      "fileSize": 26060
+    },
+    {
+      "path": "mods/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+      "hashes": {
+        "sha512": "a5059a249283f686bc49bc4c2606fce7b665102983f396996f47c11245fee21059554db5f9bdf63fa41ec954282a9ee3646ea42997f37bedb0af8b14944704f4",
+        "sha1": "95b8fe605ada8c3f24ea62d45d1fdb065bd81329"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar"
+      ],
+      "fileSize": 16521385
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "hashes": {
+        "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+        "sha512": "df79a0c64da14ca2b27dc04a72d85ce5c8e7c498e7b72da4d7bfddd592bb4bac165e70afe33fac97446e4996fffd8003350df07ede2a77233dddec77b8ff0ee7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+      ],
+      "fileSize": 625185
+    },
+    {
+      "path": "mods/fzzy_config-0.6.4+1.20.1+forge.jar",
+      "hashes": {
+        "sha1": "df08036cc393ed93cca77f4b4f947b91c429ae68",
+        "sha512": "412d907fb7ebf4d856e1c6d9a3eb12b330f4f50561e0ef8736a6c0a4c74988848887296c812b3d0c0f49917ca13ffa41440fec38c5a94af35078743de47e2fa3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/TMe0GLXS/fzzy_config-0.6.4%2B1.20.1%2Bforge.jar"
+      ],
+      "fileSize": 1913396
+    },
+    {
+      "path": "mods/endergetic-1.20.1-5.0.1.jar",
+      "hashes": {
+        "sha512": "593553a76aa417e4043be47d7166fae4e0a7efd854eb403cc1bcdd60f950bb61c310b3cec21f405f1931e26393835adcc2e682871e12180be68e57ac3323064a",
+        "sha1": "6b555cbb2582c2580a9ac646abd5da2b4449837c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cPle5Z8G/versions/En1Ihw7Y/endergetic-1.20.1-5.0.1.jar"
+      ],
+      "fileSize": 15611923
+    },
+    {
+      "path": "mods/Fallingleaves-1.20.1-2.1.0.jar",
+      "hashes": {
+        "sha512": "c3ea2e711d629c2741c8fbc268d971f6d751beefb9833c26fcbcf7f6ccdbb099fde470791823dac1447c37d3ef4f04540bc840fc97089e5c1896a9fee80ef63d",
+        "sha1": "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2JAUNCL4/versions/qCMwYRMZ/Fallingleaves-1.20.1-2.1.0.jar"
+      ],
+      "fileSize": 130363
+    },
+    {
+      "path": "mods/gallery-1.20.1-1.0.2.jar",
+      "hashes": {
+        "sha512": "4292e9416e8ca3f53e47fde691223b3036d24940478f7ab5fba17342b91797a1b08492a643f6f3e5f8ddcc5148cc6e861fbfa2f7c4ea2d9e3f7609182ed62f42",
+        "sha1": "77c964eaf2ee7240ba7edc005044812f2aef7cb7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EOA6vv83/versions/y24FMfgI/gallery-1.20.1-1.0.2.jar"
+      ],
+      "fileSize": 240791
+    },
+    {
+      "path": "mods/connection-forge-1.20.1-1.0.0.jar",
+      "hashes": {
+        "sha1": "6efc091f6467dddf5e259fee411923e77cdbcd32",
+        "sha512": "a0d21da101b7ed4dabe7c102b60a499b77d7eefc4356b9494767a16a94d825a9b1256c1a60f698ea1ad494486a9c2cb1ae103e58d63fb012fd096f5ae3f86b52"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/80L9ta2a/versions/42v8vHzi/connection-forge-1.20.1-1.0.0.jar"
+      ],
+      "fileSize": 203879
+    },
+    {
+      "path": "mods/deeper-oceans-mc1.20-v1.0.1a.jar",
+      "hashes": {
+        "sha1": "c8f8a36896675b09ed0f008c49112ae962132e6f",
+        "sha512": "7b018eaef0ac1c854e24e96c759853a2c3042f0d90e2b9614d595ce7794b6b7a43dcaba2af20ca698b90ae3909b005c569bd532ca6fa0bff2fbf5f7a4f204884"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yqHsPROA/versions/ueFgrdpD/deeper-oceans-mc1.20-v1.0.1a.jar"
+      ],
+      "fileSize": 10541
+    },
+    {
+      "path": "mods/riverredux-0.3.1.jar",
+      "hashes": {
+        "sha1": "4b60e85e75e79edc419aa01e03bfd7d6b77d3c5f",
+        "sha512": "1d8829abfe3ec5fcc9311c0a2973628c6d48292e21ad7f1ce571dc07360f310fc39510e9fc319899df250291431da17b185d4e8ed5f8515864a281d80709f5b0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/dhhdnacC/versions/Tjc3ivPe/riverredux-0.3.1.jar"
+      ],
+      "fileSize": 18323
+    },
+    {
+      "path": "mods/notenoughcrashes-4.4.7+1.20.1-forge.jar",
+      "hashes": {
+        "sha512": "9128836e8bed4ff60f5569b0541a132eafa009275657c6816792b210d31b8cb9f83afc9469335f0018890484c0b744b4ad0be865ee4f89ad665eac05ca27cafb",
+        "sha1": "0cd0d0f49762dcaf3716e72c5e159ed9645ce468"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yM94ont6/versions/W6W0bVtN/notenoughcrashes-4.4.7%2B1.20.1-forge.jar"
+      ],
+      "fileSize": 133125
+    },
+    {
+      "path": "mods/netherportalfix-forge-1.20-13.0.1.jar",
+      "hashes": {
+        "sha512": "622d181918418c9bd9c919d19e9f5b0cc8e70c18b7c9be79353ea96481c40264cd986367630d9228867a8fbe94a2b9a2fd5b1ae3ba9edcb8edd12185a8366e3a",
+        "sha1": "2179040063d0e11083e54a9b1957de9f909d0d6f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nPZr02ET/versions/cWPAnu7u/netherportalfix-forge-1.20-13.0.1.jar"
+      ],
+      "fileSize": 217831
+    },
+    {
+      "path": "mods/lithostitched-forge-1.20.1-1.4.4.jar",
+      "hashes": {
+        "sha1": "267f311d84570beadd36d2515e76a9381dee8d88",
+        "sha512": "05b10b2782b763bc58e86fc784ae29383403a6502fb8d5348cb4f78d41a4c476860288e3b45553631e140001b97ddb279f447d08779b3dd81125fc9d2b1b3b20"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XaDC71GB/versions/4ooXso77/lithostitched-forge-1.20.1-1.4.4.jar"
+      ],
+      "fileSize": 469486
+    },
+    {
+      "path": "mods/Palladium 1.20-1.20.2-1.1.0.jar",
+      "hashes": {
+        "sha512": "d9185a63af9104e33ef558896338921aa98b4c449b48974d1c0dddbe274e10a86476f301bd1c22e0ccb6020393c4741a69736c7a18574f67b57e880abec5e517",
+        "sha1": "f7ef67253c9743109e7b93c670159f2538d56019"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/JNRr4jji/versions/uRDQDE7I/Palladium%201.20-1.20.2-1.1.0.jar"
+      ],
+      "fileSize": 73211
+    },
+    {
+      "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "hashes": {
+        "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
+        "sha512": "e88ce04d601a5953de909edaabb49dad9eea2c3a9ccccb1247fd041554b30794d4d4c315be065c90b1017cbd798199e644fe8d905125f4c431ddb8eaf170dd15"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar"
+      ],
+      "fileSize": 468517
+    },
+    {
+      "path": "mods/euphonium-1.0.3+1.20.jar",
+      "hashes": {
+        "sha1": "67c9b5c4c52609c98227926f081a488ac6cd9f9c",
+        "sha512": "8977b73ecac5f8dd44a66eb4348482bda1c349426ddb8bdabbfd09f88f377135a705767acb9c23aeaa3c3ffca452902482ec882dbdcf669474baa2f1c018dcaa"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XH8cnjHW/versions/Bdg5V49U/euphonium-1.0.3%2B1.20.jar"
+      ],
+      "fileSize": 44308377
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar",
+      "hashes": {
+        "sha1": "5c63ec18176fdf072c3b8d0fb7e8445ed73b9b86",
+        "sha512": "4b7e47858fdc91540dcde025bf9d771a45fb9071d2a5c9d40becf045532ea19d6a517b2d8008b2d00dc4d6705a929e56ab1116cb314abb1d3b4d46710af08f3b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KJhXPbHQ/versions/auZ4x8at/BetterCompatibilityChecker-3.0.1-build.58%2Bmc1.20.jar"
+      ],
+      "fileSize": 21072
+    },
+    {
+      "path": "mods/BetterBeacons-Forge-1.20.1-2.0.0.jar",
+      "hashes": {
+        "sha512": "b04a06069d29552a53f9e3bd76f390d509ee5d7ed768faeff259ec2d4c5c6102be3ed5ac92424685b518c114042411c1b62a9cbd43f62c61fa7c0b420ed34ac0",
+        "sha1": "af05241e1b25d6d843464a9b335d21002badd31e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gSeQTNSE/versions/xVFiegCL/BetterBeacons-Forge-1.20.1-2.0.0.jar"
+      ],
+      "fileSize": 415307
+    },
+    {
+      "path": "mods/idwtialsimmoedm-0.3.1+1.20.jar",
+      "hashes": {
+        "sha1": "492d28f486f5c55dc235be01842d6522bd5cc18c",
+        "sha512": "64f6ab5b4baffd170e3c26d39c75ea0fd03a5769ce4ccaf5c118ab9b8ab94271997added219d0f9ed12bb55134b1bd930fccaff6b20782c4b6fc975423823124"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ad89WlWh/versions/mt6ldABY/idwtialsimmoedm-0.3.1%2B1.20.jar"
+      ],
+      "fileSize": 32108
+    },
+    {
+      "path": "mods/upgrade_aquatic-1.20.1-6.0.2.jar",
+      "hashes": {
+        "sha1": "47c0030adac1aae68d2d884d95ae81cbef7f30c5",
+        "sha512": "b8de4924291f29081185234aeb755ec3fb6fe26c1f88b0d3e45eb798b02400ba194eb4ed8ed9d8169bb0de1057306d5d6d7ea3786ecfcbf6b35dad102d79a9c3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gTuTFFyz/versions/zlrhxqCv/upgrade_aquatic-1.20.1-6.0.2.jar"
+      ],
+      "fileSize": 4978368
+    },
+    {
+      "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "hashes": {
+        "sha512": "b8be6ed0bef707c7c34d84049eb68313a5c787f6e9c9a88fb94daed6bccfedc6c181a1fca431f53b6e8ac03c7baf7653414b5a5792cab6b500c6d66502489431",
+        "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar"
+      ],
+      "fileSize": 66989
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.10.0+1.20.1.jar",
+      "hashes": {
+        "sha1": "d735f98891961db6ac6d66af2e97fd23eb43488d",
+        "sha512": "34a21783c9ff2b6393eadcef97bf6462f6ff7a4546d42c439db483ef034010026691cbfd55dc2907776503ffb60cf96561bc86a464d27d7e1014d556ffdc945f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rcTfTZr3/versions/iJgIcrpM/PresenceFootsteps-1.10.0%2B1.20.1.jar"
+      ],
+      "fileSize": 5651161
+    },
+    {
+      "path": "resourcepacks/Fancy Crops v1.1.zip",
+      "hashes": {
+        "sha512": "2d7b2df65f7c13ee6eac20308eceb8a614f4bd1aad20504fb3a656a4b68fe9b8043a88179d2f88a63ba7a6239e4b4d364630de30fe2ea587ddd3d9df12158176",
+        "sha1": "cadbd07953bd3b673a3e951ec94acc8fe81066c2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/UGEVQ6t9/versions/J47fJlYS/Fancy%20Crops%20v1.1.zip"
+      ],
+      "fileSize": 63280
+    },
+    {
+      "path": "mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "hashes": {
+        "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+        "sha512": "d63d8d3e252197b7cabffc10ba6ec718d03b0038345d40dc5c9ce3014b9e542a35760ab0250f179b3de4183fe34784d645157b34bf54648c0ebbe24604ed5ba7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P1Kv5EAO/versions/AomMq7HP/Necronomicon-Forge-1.6.0%2B1.20.1.jar"
+      ],
+      "fileSize": 33251
+    },
+    {
+      "path": "mods/modelfix-1.15.jar",
+      "hashes": {
+        "sha512": "b46d6b507b12c63a6fa96ca0571c1b94fc6525e48fdfdbcaa018aa3c4a4801da5c4bb80a173f7cca04b1591854147260163716e25041363b8640f20ff1c736d4",
+        "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QdG47OkI/versions/og4A1nN8/modelfix-1.15.jar"
+      ],
+      "fileSize": 45246
+    },
+    {
+      "path": "mods/suppsquared-1.20-1.1.18.jar",
+      "hashes": {
+        "sha1": "fb91af02a1083709e1b0b2e2fcc2d09a6bdce291",
+        "sha512": "5219e264e4a295cd4fa5d1e95bbf80c057982b310baee3ae31e141e15c8bbc16936481da0df641d1408668755abb094f15533cb365c79ebe1e6894ab40ced301"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/dCCkNFwE/versions/YnMoU1Cj/suppsquared-1.20-1.1.18.jar"
+      ],
+      "fileSize": 888753
+    },
+    {
+      "path": "mods/[Forge]backported_wolves_forge-1.0.3-1.20.1.jar",
+      "hashes": {
+        "sha1": "75259050a3cbe3417cd05d1092fa53cbc23113af",
+        "sha512": "c616897744ab1a8ccc2a6904336d6709c75f6e05033026acaed8f92bcb8e0a7b229212b83f4e617ce68ebc67b3c3e2bddf78d93f548acb491efe12cb29f96328"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yasXoQpR/versions/ZIoZA2FC/%5BForge%5Dbackported_wolves_forge-1.0.3-1.20.1.jar"
+      ],
+      "fileSize": 149836
+    },
+    {
+      "path": "resourcepacks/visual-armor-trims-v1.1-1.20.X.zip",
+      "hashes": {
+        "sha1": "2ec7cb868b74fb0d4969b39ea9d485cc1e22e30b",
+        "sha512": "017c8769b8015e86e4dc470952bf2fde262607958f8ee1634208b691718ab278c1f3e5695bac4560bc39331c44d9d2f3278c1e43870b9e8e64102335d99986cb"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tPtjib62/versions/EgW0bmI7/visual-armor-trims-v1.1-1.20.X.zip"
+      ],
+      "fileSize": 3077990
+    },
+    {
+      "path": "mods/improvedsigns-1.3.1.jar",
+      "hashes": {
+        "sha512": "21ffa812caaa9a7c26d40b573cdd00a9599b1abe84c4043cb88edaab86cc644e4e2468b8316feaeb639e93f2fca962fa942f4625b116b090febaaa5bcc3e4659",
+        "sha1": "b232323e1711a2a87d382f827635681cb5fd1b0f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tEcCNQe7/versions/cxi4KUXk/improvedsigns-1.3.1.jar"
+      ],
+      "fileSize": 146712
+    },
+    {
+      "path": "mods/skippy-pearls-1.4.jar",
+      "hashes": {
+        "sha1": "05a5eeb020c04ef60fb4fc072e7a2919e821cfab",
+        "sha512": "2b6dfd282ce7f4953e634e711f139da3a60c87eeecd927ba26d311e6a3a167320d0cbc6a68a853d1796c1885bb684e0edaea5c7b43f34a38c41778d3779c02d7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KM7gMSY1/versions/uXDwLG3V/skippy-pearls-1.4.jar"
+      ],
+      "fileSize": 6687
+    },
+    {
+      "path": "mods/cobweb-forge-1.20.1-1.0.1.jar",
+      "hashes": {
+        "sha1": "607bbb82656d28ddfaa5ef2ec6e9c413859f5956",
+        "sha512": "fc152db7f2f0a2676ab570033945c03b5547bee667788305899371b7d421e9103ebeda5e839a644d36e6ed9b6d7c1a2b4c0db7ceae1888559d7e34f35ee6bfdb"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/dQcfqGbl/versions/6tcgyNkq/cobweb-forge-1.20.1-1.0.1.jar"
+      ],
+      "fileSize": 87042
+    },
+    {
+      "path": "mods/berry_good-1.20.1-7.0.0.jar",
+      "hashes": {
+        "sha1": "ae052f061baeffac6d7e79a570fe7341081d83cd",
+        "sha512": "e7fa84113308a39104c90f2311d432694e7c6702107849bcd475f2c84c102f6ab9641fcee6c81b2bfebda24a4340b0cbb4e6aa9db76004623fd2f8a649bfe7cb"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2WZWaKCl/versions/a8xhP8dI/berry_good-1.20.1-7.0.0.jar"
+      ],
+      "fileSize": 3058543
+    },
+    {
+      "path": "mods/CraftTweaker-forge-1.20.1-14.0.56.jar",
+      "hashes": {
+        "sha1": "6be7a0d197e6fee9f86c9a782363cc66f1fb5e47",
+        "sha512": "fe56a4eb6762c4321f894eb7749f4a4d31fb7d88b034cf1d9cf50d78c2fcf89277788cd17d6d43f92887d9930775206ca625d5c162f743f9f8592a321392fef9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Xg35A4rS/versions/XiYRtNf9/CraftTweaker-forge-1.20.1-14.0.56.jar"
+      ],
+      "fileSize": 3263879
+    },
+    {
+      "path": "mods/Compat_Galosphere-Spelunkery.jar",
+      "hashes": {
+        "sha1": "76823961fd33b94ff031924e7a89dd5db2a92213",
+        "sha512": "f2621124e20f13ec6a5b7bc589f677953c603772c17888c0cf55b74c8615a4ba548518c25693eaef27488efbbd153529192aa51a91425b2784fa58313f383c86"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ibiMtU5c/versions/tv1AdRGI/Compat_Galosphere-Spelunkery.jar"
+      ],
+      "fileSize": 104397
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "hashes": {
+        "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+        "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar"
+      ],
+      "fileSize": 1181413
+    },
+    {
+      "path": "mods/boats-on-lilypads-1.0.2.jar",
+      "hashes": {
+        "sha512": "0755011441e5d0aaf64023d8c602abc45280d4cb6deba4fcbd3d208c122886bf45b7f4f23c20dca7af1326e0a64db501e126d6d355f80e45e0e6a1f6c7651643",
+        "sha1": "30f32fffe15b93ee79257b1e6347034b30367e90"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/G8Y1A0F8/versions/QRy1oIx0/boats-on-lilypads-1.0.2.jar"
+      ],
+      "fileSize": 25838
+    },
+    {
+      "path": "mods/UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar",
+      "hashes": {
+        "sha512": "16ffcf0ee8b7d7219a9380856b205f2f1ba255a41c29eda1f87f0c363250915e4f94889f0c5ccbf68d53c3d57266bba01e796f703902522f4bb43f93b2cc35bd",
+        "sha1": "7cd0784bdbc282c6fbc5e19db829031e9b635273"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/66VIiT1y/versions/RHX4KX61/UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar"
+      ],
+      "fileSize": 85511
+    },
+    {
+      "path": "mods/boatload-1.20.1-5.0.1.jar",
+      "hashes": {
+        "sha512": "82bf9266e2de0adebcba4effc9552da928fc78dd20b3f5f52da483423d1add1a42756848ec12cebd54d19a7007ca9119af622ef096230b26bb66133cd7275051",
+        "sha1": "7e04920780f58a0556f88f9934797deb2107641a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hevpK888/versions/hCft0zTY/boatload-1.20.1-5.0.1.jar"
+      ],
+      "fileSize": 372407
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "hashes": {
+        "sha512": "1e8237e0fc4dd7e00a3ad30c5c02a82eeed63aed4544310cfdee863ac95b626874773f599779b985e6e460869804c036e1336c2720fbb34a3b09445434c063c8",
+        "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+      ],
+      "fileSize": 492998
+    },
+    {
+      "path": "resourcepacks/FA+Emissive-v1.2.zip",
+      "hashes": {
+        "sha1": "f92ac8083081af6c7f660eec317324aacf24d540",
+        "sha512": "ced3e55e783a65ce67ff4d5f376814754109b86c2ee47cb0288a2efaafcb8029c1036457efac5a4b84acb2b59994f1b521bdf4ade05ecd4f5531eebca2137e93"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YAVTU8mK/versions/YoYndZ6Q/FA%2BEmissive-v1.2.zip"
+      ],
+      "fileSize": 61093
+    },
+    {
+      "path": "mods/aileron-1.20.1-forge-1.0.3.jar",
+      "hashes": {
+        "sha1": "768a93d75c69c34895e444976d842d1ee786c486",
+        "sha512": "c0f2f3aa11298bec1d137b469589b56bd05e96d8f5aafca71a7022ca666254cd38e630bbb3693764c9cc32dd7c6c1729658dd815184a906423a371ed70622b02"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/b8kG1VGq/versions/Ibb9cmSz/aileron-1.20.1-forge-1.0.3.jar"
+      ],
+      "fileSize": 245603
+    },
+    {
+      "path": "mods/soaring-phantoms-1.0.0+1.20.jar",
+      "hashes": {
+        "sha512": "c73fc9108de00ffb2812573ec2a913d150c6f82a79b7d243f3cd071e90f2416929a27f0b2d092850c8f83897227a929ee75b414c593fe3e9f10386cfc339dbb6",
+        "sha1": "54a0e73d4c2da28895cc08848561a458e93c4fab"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/d4Rp6J8P/versions/Bs9taRUt/soaring-phantoms-1.0.0%2B1.20.jar"
+      ],
+      "fileSize": 46609
+    },
+    {
+      "path": "mods/ConnectorExtras-1.11.2+1.20.1.jar",
+      "hashes": {
+        "sha512": "a318841ce2c42e8ba2058d47ad323bcb8ca500515c391f3f31b6468e8d4d974a53effe8a0a801b7fafd60d9845be514696bd9b095a3cc5d014bde02ce531bada",
+        "sha1": "9336db4e6ce458bccf7724c039f0371e822397ae"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/FYpiwiBR/versions/d28gpPn6/ConnectorExtras-1.11.2%2B1.20.1.jar"
+      ],
+      "fileSize": 182464
+    },
+    {
+      "path": "mods/diet-fabric-2.1.1+1.20.1.jar",
+      "hashes": {
+        "sha1": "64095bba25206755c4bdaa85b1da4527268f99d8",
+        "sha512": "839bb29fbeab7301fa93115c19c4f6dc2fa20b49806eb21809f273f19eca0b22d35904cdaa741d81c5b61a4ca1bdc35ec712b42a2c12bc4e731b2f626c3fdca9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SsIkH9rZ/versions/ZHwy8qdO/diet-fabric-2.1.1%2B1.20.1.jar"
+      ],
+      "fileSize": 668271
+    },
+    {
+      "path": "mods/rabbit_behavior_fix-1.20.1-1.0.0.jar",
+      "hashes": {
+        "sha512": "ac6a051dbf9c3a37028f7451125bfe701871d068c39c70b2bc5f0d01a357485102d610fa2fc1ea4815292cd795cc2c0b60a94a6563e810b52039cc23d473f084",
+        "sha1": "199cf1a7b21c50ebfc62666764aea65b7c5cc756"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WASlJJKN/versions/qsKA3Mp2/rabbit_behavior_fix-1.20.1-1.0.0.jar"
+      ],
+      "fileSize": 1076237
+    },
+    {
+      "path": "mods/exposure-1.20.1-1.7.9-forge.jar",
+      "hashes": {
+        "sha512": "74b2740351e86e409be0d8c9ffbc440bc92f2441467874c83bd3f38dfcd3eeaea18458f4b66706f4e8a81d0b719dfe06befc4ede72ef22a8d97fa6b14e710b03",
+        "sha1": "64e1d9ebf980c96ad642c8e1e6bf72f8d843d5a8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hB899VmG/versions/BeePdqPF/exposure-1.20.1-1.7.9-forge.jar"
+      ],
+      "fileSize": 1329407
+    },
+    {
+      "path": "mods/seamless-2.2.2-forge-1.20.1.jar",
+      "hashes": {
+        "sha1": "c1bb259d2bd3260643bd7fe1dcbea1c4703beda6",
+        "sha512": "a87365690360167966b43c963a11018b6d1edc969bf758d9c55b34d799a074b4f09282b44bc79f1e879493d91c6300b18bb83cc6137da2a52688bd857c781606"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rhyHyQke/versions/BcWF7G0E/seamless-2.2.2-forge-1.20.1.jar"
+      ],
+      "fileSize": 666413
+    },
+    {
+      "path": "mods/fastpaintings-1.20-1.2.7.jar",
+      "hashes": {
+        "sha1": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc",
+        "sha512": "917595dfe0834d765751ee7272ef212df3d5077a651483b285d4e252819f56db5628e174c22a419b9038c25aa36f85bf22964e862920d2835f77bbd9baa87168"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/z3TzcquW/versions/Bvjyyy1T/fastpaintings-1.20-1.2.7.jar"
+      ],
+      "fileSize": 309400
+    },
+    {
+      "path": "mods/SlimyBoyos-forge-1.20.1-7.0.0.4.jar",
+      "hashes": {
+        "sha1": "43c50a2f91c779e05186a51da5f4c1e7fccaf287",
+        "sha512": "2340377508c92ec4743dced08f7fa51d328a35266043e6f56c244cdfede0b19a78e40af1b541feba221bf65d8224c1ff394666c7e40a75e17492cd238a714f1f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aT62gFqe/versions/cAPaQRlp/SlimyBoyos-forge-1.20.1-7.0.0.4.jar"
+      ],
+      "fileSize": 30412
+    },
+    {
+      "path": "mods/ImmersiveUI-FORGE-0.3.0.jar",
+      "hashes": {
+        "sha1": "b2b36a49f1b8daf8d8fc0521f532fb706649c09c",
+        "sha512": "7a1810467de4e383ac8876bab2176c9f32465cc13ff7c598877ce3c1339b9a698b6beff8b4291d008e06a1fbc0a5570fac945597398532e70eba12e0b6f061aa"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9wv7LuMc/versions/YbO8SNFq/ImmersiveUI-FORGE-0.3.0.jar"
+      ],
+      "fileSize": 401514
+    },
+    {
+      "path": "mods/soul-fire-d-forge-1.20.1-4.0.10.jar",
+      "hashes": {
+        "sha1": "70e52cec645454f9f9cd904d4da7d07a3410cfb1",
+        "sha512": "70abf5f07230010eb4d3bb5f3de924a1efd1c7677ec6e0ae4f9b8579690b7590f56f2cb53a954d72563c8f4c78ab5ef23bad313a32e0ad37b67ddd243944314c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/d6MhxwRo/versions/W1D2urzZ/soul-fire-d-forge-1.20.1-4.0.10.jar"
+      ],
+      "fileSize": 341053
+    },
+    {
+      "path": "resourcepacks/Os' Amethyst Indicator.zip",
+      "hashes": {
+        "sha512": "4caa042a454512c0b8297ad8d739010b0e21975fd97e8d2e4c4c255dd827c072beb2e02f7ea7f45c4348d7d061b57a96eea9db06e5efea8cfc475e1c53df29aa",
+        "sha1": "a15b6187266ea5ce2f7a504badb9887ecbf47840"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P5Lom4bY/versions/kUXl0D2b/Os%27%20Amethyst%20Indicator.zip"
+      ],
+      "fileSize": 137105
+    },
+    {
+      "path": "mods/savage_and_ravage-1.20.1-6.0.0.jar",
+      "hashes": {
+        "sha512": "1b0ca038a5ecf8f1b23f5753ec97e22d989c6e469620e6db5a009f372d3395967fd9e545be2a8fcd7a10ea059aa67f7dbaf97b43022f7ee9c818cba0acfc239b",
+        "sha1": "a6895b929eaa76a46814c0bb0d3e70190d3b26a1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KxOh9voD/versions/38OAGsVf/savage_and_ravage-1.20.1-6.0.0.jar"
+      ],
+      "fileSize": 1315327
+    },
+    {
+      "path": "mods/allurement-1.20.1-4.0.0.jar",
+      "hashes": {
+        "sha1": "1687ae1c9475c70f4044e7b381aa8df1c4249e1e",
+        "sha512": "20d244fcf81b232d9cf917d2ec303e324cdb8a551835fabad8dec549042ad784996cc1caa159e1802a6746eb96371a88864deeed8a0dcc539df5d36978904f13"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/eIO12l2t/versions/qc1hOxYD/allurement-1.20.1-4.0.0.jar"
+      ],
+      "fileSize": 637694
+    },
+    {
+      "path": "mods/dimthread-FORGE-mc1.20.1-v1.2.1.jar",
+      "hashes": {
+        "sha1": "89a0d375b7aa99a7c8fd28decc39f4d36b9127c9",
+        "sha512": "e09ac584cfc2062eb4204c0a7f0f214035c8f3ebdf881e34b9626e90420ebea1fae9890c97c6a0df16f8d0943d6e1f74f3d9eff742c4eeaa63843a627a361c39"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/V92cR3aK/versions/i3nGtwqY/dimthread-FORGE-mc1.20.1-v1.2.1.jar"
+      ],
+      "fileSize": 444874
+    },
+    {
+      "path": "mods/supplementaries-1.20-3.1.18.jar",
+      "hashes": {
+        "sha1": "129c7ba5a3fd16671dedc0c139e987f7b7cfd130",
+        "sha512": "c951776268f3353bfcae995325e143879f6694d8b539557b13446f36ba12a4cef8fdc3d22b18741f2f1f87037c0bdfd25163828806c630b3507c4733e1436bd7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/S4IygZ9g/supplementaries-1.20-3.1.18.jar"
+      ],
+      "fileSize": 14823869
+    },
+    {
+      "path": "mods/EBE-1.20-1.20.1-0.9.1B.jar",
+      "hashes": {
+        "sha1": "581ac917ce1708a708fe5c66eef82e1978972743",
+        "sha512": "6f9b1eef1cc3982d9505c96e941190aa9c5996c30dd8de0f789a1b2cca0e4a41573d54ba199d93779586584361fafce0f109d7ea715cecff4e93a74196f52e17"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ntz4ZX7h/versions/rQm3ja4Q/EBE-1.20-1.20.1-0.9.1B.jar"
+      ],
+      "fileSize": 287043
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "hashes": {
+        "sha1": "6195a3d1464f8fb641d7e165163aea1a857ce08e",
+        "sha512": "3945bf3f6d843957f13584dfc70bede253d1e48f0dcb96f647fbcc6fcd3d1748a0dd9c6ca5c882e07a41f98eb84057934f51e43ab6023ed0a19695de2e6fe9f5"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/LH6Bi6Am/Controlling-forge-1.20.1-12.0.2.jar"
+      ],
+      "fileSize": 115280
+    },
+    {
+      "path": "mods/windchimes-1.2.4+1.20.jar",
+      "hashes": {
+        "sha1": "98aa3508f6537ceddba1032812e4625df931f0f8",
+        "sha512": "f58c75e08f6147c51dfeefb8c53e5f0042cfef3acdfcfd2a741e9cc3c46d83642af0705ccf45f1617aa73266ee164b944eaed34d669c22084318afdf5416c52b"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iM50gcBD/versions/JapPN4QV/windchimes-1.2.4%2B1.20.jar"
+      ],
+      "fileSize": 1224402
+    },
+    {
+      "path": "mods/RespawningAnimals-v8.2.1-1.20.1-Forge.jar",
+      "hashes": {
+        "sha512": "30ada80665f644374b2d62d1216bff69002a20ddded72cf65346b63536288969475cdc1c9cffc76c0ab3973be88022310c501d59a1d8f95e60e9c12c3e575e2a",
+        "sha1": "0cefae421b7f93d5ec1189a7a3757dd4ef248e54"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WnwcSeWc/versions/KQaLEkgg/RespawningAnimals-v8.2.1-1.20.1-Forge.jar"
+      ],
+      "fileSize": 70212
+    },
+    {
+      "path": "mods/AI-Improvements-1.20-0.5.2.jar",
+      "hashes": {
+        "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
+        "sha512": "eb932308aceb30f5157e967f1bd4b57eb1a1b2093886cbfaef6524b780337b8b0e2bd41c5103694c3a275827ceb7d63e7c55637a7a46f8e21f0a6770346b757d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar"
+      ],
+      "fileSize": 29553
+    },
+    {
+      "path": "mods/clayworks-1.20.1-3.0.3.jar",
+      "hashes": {
+        "sha1": "500003657aecc267b78d11bd3c6647b29984d37c",
+        "sha512": "ac307a8d937bbb82311e27243cc3f9ea7d8898472380458c41fb21cdc46736655561d85eb760285232c4d6860956242f9ce3427a8ac9267537e01d7726785075"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1iicrEO3/versions/4B8NKv1f/clayworks-1.20.1-3.0.3.jar"
+      ],
+      "fileSize": 1182694
+    },
+    {
+      "path": "mods/coolrain-1.1.0-1.20.1.jar",
+      "hashes": {
+        "sha512": "b99c21543a6d06070ed25fa33451fcd8de7e01a8a891822ac4c11beded5d7fe8f16129b6ddc986d8d14c59f91adec2e07947c7a8883e1f2175cadfdf1238f1a9",
+        "sha1": "1359de18c1d2acf2e2976856c3b3d667bd963742"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iDyqnQLT/versions/YEnuoMXW/coolrain-1.1.0-1.20.1.jar"
+      ],
+      "fileSize": 3126219
+    },
+    {
+      "path": "mods/Kiwi-1.20.1-Forge-11.8.30.jar",
+      "hashes": {
+        "sha512": "4466a5a553804fe853a462c6055a5ae74b151da65b9872d5389c77dcd53b5c538066403c4b4ed48dc8bede8d35e131d976cb105433bcb3180b6aaca459b7ef4c",
+        "sha1": "0469d08eb4195c6b4f5563c02af6cb8d7cda5758"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ufdDoWPd/versions/SpmpxVSh/Kiwi-1.20.1-Forge-11.8.30.jar"
+      ],
+      "fileSize": 1632776
+    },
+    {
+      "path": "mods/ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+      "hashes": {
+        "sha512": "7458b25e6243c196ecac5363ce6b30713eb93c043226906d6ad6b9774985831f67a250a3057183e6f9721cbdf56c6ebdd3db3769c1da66c7d07ba4d0d5878d1b",
+        "sha1": "4fc87af53afb8610e77710b30340783fc6bd0ccf"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OuyCgP8t/versions/pblKjZQf/ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar"
+      ],
+      "fileSize": 19487
+    },
+    {
+      "path": "mods/eating-animation-1.20+1.9.61.jar",
+      "hashes": {
+        "sha512": "7470cd63b49cd797a21b30fefe11bd53e419ca8ed0eb01f498b801e83222685bbe853e7323f2e310874a3619628fece48ec69ea53cd391dd97a139c64225d077",
+        "sha1": "d5a8909b0b864eb1a7a2d62368932d264eb60317"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rUgZvGzi/versions/AqXSvu6M/eating-animation-1.20%2B1.9.61.jar"
+      ],
+      "fileSize": 1218710
+    },
+    {
+      "path": "mods/overweightfarming-1.20.1-2.1.0-forge.jar",
+      "hashes": {
+        "sha1": "5efd1170fcd32645865b22d22d81960e33a1cac7",
+        "sha512": "4685b87e4c58b94008ead1ebf8f0e69460ad30a4190e4866c6c9c4e3dad846338f444efd9a9acde61f90d70b19802b7c2d910c17003403de4b1add24efa5cbf2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/bCxmmxKN/versions/cRR55xmK/overweightfarming-1.20.1-2.1.0-forge.jar"
+      ],
+      "fileSize": 268241
+    },
+    {
+      "path": "resourcepacks/Fine Armoury v1.3 f8-34.zip",
+      "hashes": {
+        "sha1": "d303d00ab12e613ce69818f69184dbedaf8598c8",
+        "sha512": "0eb526945a435c706eda40110552d83c81fabaf4f2de3dc9c7186c0b6f3c3e28818208bf66317ecbdddf54ac51f5ee3c01c389e2094fdc662ab34e5171a07db9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/H0Q0y5Fn/versions/ePn7b7QZ/Fine%20Armoury%20v1.3%20f8-34.zip"
+      ],
+      "fileSize": 52224
+    },
+    {
+      "path": "mods/snowyspirit-1.20-3.0.10.jar",
+      "hashes": {
+        "sha1": "3970c8937887295c3d6811770fa214adf8cf500a",
+        "sha512": "9a9f78aa237f936f7de5c9e3ff456b19948143735d2a255b166fde4e2e8705af05792dfa979c95fcbf342efe6d500695d9692325f597ad17b8d80337da2fc1c0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/UiFDlI7w/versions/JZ9WGqCs/snowyspirit-1.20-3.0.10.jar"
+      ],
+      "fileSize": 5362591
+    },
+    {
+      "path": "mods/experimentalsettingsdisabler-1.20.1-3.0.jar",
+      "hashes": {
+        "sha512": "bf6f47aa17ae5ea29f3c4a76978da5ccd184ae72ecc00ffdaeef17c669abd6fdbfa1fea3b697b571419f1f02606ed85d0b30ce9e7944df6332263cd4032bfa5a",
+        "sha1": "f03a753b276bbb1f17bc7050566a1bf9dbb0a74a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Dafp0il6/versions/ILMogVwI/experimentalsettingsdisabler-1.20.1-3.0.jar"
+      ],
+      "fileSize": 8264
+    },
+    {
+      "path": "mods/LunaSlimes-1.7.1.jar",
+      "hashes": {
+        "sha1": "e8fe19591e2ca2311e346bedeafd089cce1f8a42",
+        "sha512": "b63ae950428d3da095be97e4fa97c429006dd6dc48e6d8b64372c48ee98bad777d5a91810bc4afec5a5937f26cdc5f793c5d835b36b95e7a4453ce93bf66d02c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/29SwBNOk/versions/5xPkucjo/LunaSlimes-1.7.1.jar"
+      ],
+      "fileSize": 269119
+    },
+    {
+      "path": "mods/sootychimneys-1.20.1-1.2.1.jar",
+      "hashes": {
+        "sha512": "ddded3954ff330d97c3e9280deed50f6c69ee5c2dd353f2b9a9097265d98c71c69387ce57d7e251275903ef57181f6c5985554daf4e83e4147587d1411fd3eaa",
+        "sha1": "6a5627a9027fdbdb379c09bae7e3750aad846b06"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/b3w1XM9H/versions/antfC9D5/sootychimneys-1.20.1-1.2.1.jar"
+      ],
+      "fileSize": 174387
+    },
+    {
+      "path": "resourcepacks/Fresh Wolve Variants 1.1.zip",
+      "hashes": {
+        "sha512": "9e4213c360a7234f414c0ed1342df7542f06f4d1bc3230b302ba1601ed1adc0959e3c97b0a389145e0a23a67269ac9ebf4dfdae6516d8eeb1f39f6992cd99dda",
+        "sha1": "c4797c5846121dc5b7b003e4cb8f6080dce555d1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/h0WclodT/versions/AeHCLgam/Fresh%20Wolve%20Variants%201.1.zip"
+      ],
+      "fileSize": 609124
+    },
+    {
+      "path": "mods/visual-snowy-leaves-0.4.1+mc1.20.1.jar",
+      "hashes": {
+        "sha512": "f7905e2ef0c7b41f0a01639b2ec29048c65d5c13a255e98718e8a4728e41b9db8e9c609e943e90a56e4127c4c95c5040bb0b1204b23da78b1a3cd4792f224cdf",
+        "sha1": "cc89e87b10c3ad37fc19f265ddd4face871383d7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ff2M7Ii7/versions/n7Q2PSCG/visual-snowy-leaves-0.4.1%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 84603
+    },
+    {
+      "path": "mods/Zeta-1.0-24.jar",
+      "hashes": {
+        "sha1": "e261d5550bb66cd6802597b1b33462470e3b8dae",
+        "sha512": "929032eb6dbef3fea23b47e04495cdfad7a219409bf2adbbde2ac12b8607fd49140f79a6d18c640fd44fb0f4ebf23cc2f00bafe02fc4064555eec9e529d1982f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MVARlG2f/versions/MRyLCiek/Zeta-1.0-24.jar"
+      ],
+      "fileSize": 991472
+    },
+    {
+      "path": "mods/betterlightning-1.1.0-1.20.1.jar",
+      "hashes": {
+        "sha1": "ce8025038e52588bd6f88a2a0daa76ba97699092",
+        "sha512": "9759f1deb67dcc44bfbf2fb9c47c9df6e60fd2ddb018984e641468021dad34253f932cf5d53f6b712e120c563cef4e2bcea63450a585b5d897b371622a1ec6f9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/exGIC7QX/versions/mHFvj48X/betterlightning-1.1.0-1.20.1.jar"
+      ],
+      "fileSize": 816376
+    },
+    {
+      "path": "mods/entity_model_features_forge_1.20.1-2.4.1.jar",
+      "hashes": {
+        "sha512": "f6160617baabb494226d09687aed23e0cdc6de42122d1c6b038ef733990cabc2aff62b6b1e91eb42236e9e0b952dcf1cdc42c323d823f41a0e5c285f831dce65",
+        "sha1": "2ed40fd0bf3266e67036e5b3857da84c24b045e1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/p39UPPar/entity_model_features_forge_1.20.1-2.4.1.jar"
+      ],
+      "fileSize": 445642
+    },
+    {
+      "path": "mods/guarding-2.4.0.jar",
+      "hashes": {
+        "sha1": "48f7a82d88e4c764544a87e5fe41353d5c197f5b",
+        "sha512": "91743c257895a63b6b49ed181fd2f834caa757fd2be250712a564ebcc3c60ead76ad180bea88938bc94a9298bd23e00ba0484a6a3d60d084bade2805182a335d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aV1COQ7a/versions/zz7EL9j5/guarding-2.4.0.jar"
+      ],
+      "fileSize": 344832
+    },
+    {
+      "path": "mods/entityculling-forge-1.7.3-mc1.20.1.jar",
+      "hashes": {
+        "sha512": "2a5989064f58342b98045857113aa6e9b7889dcb92bebee2b2de3f97a29f52d26d4b29d7ce4026e6420992064e0f86397e00aeb5777a4d6a568588e42381c088",
+        "sha1": "09c17c8794a0e00d2ccb51b8d7c1b812498c5c33"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/SdwRMvNg/entityculling-forge-1.7.3-mc1.20.1.jar"
+      ],
+      "fileSize": 77548
+    },
+    {
+      "path": "mods/lootjs-forge-1.20.1-2.12.0.jar",
+      "hashes": {
+        "sha512": "50d79869601a81375fcb5d60635abbb901770107c675e07a0d5aade4c235bb3ff6879310b821583df856fa034b839045ae5f5fe7d543280195c4c2405b83dc4f",
+        "sha1": "5e0d8b4d398780946f295b31b7b65bf201d7dcc7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fJFETWDN/versions/72Tq9bfK/lootjs-forge-1.20.1-2.12.0.jar"
+      ],
+      "fileSize": 241907
+    },
+    {
+      "path": "mods/sushi_bar-0.2.2+1.20.jar",
+      "hashes": {
+        "sha512": "d8619fe5e575e62eca86e898569df122eb5002914167cf75d7d61f17633ead9e3c6b4b7a3b00d2336964b21f299f653459fc1964440f6ad2d36011be5dc72889",
+        "sha1": "03238309995c476ca7f61f6d55d41d1408692c67"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tr2Mv6ke/versions/jr9lc3k8/sushi_bar-0.2.2%2B1.20.jar"
+      ],
+      "fileSize": 94225
+    },
+    {
+      "path": "mods/YetAnotherConfigLib-3.6.2+1.20.1-forge.jar",
+      "hashes": {
+        "sha1": "044fe3b2bd50d2a00d07bd44a2cbdd677617786e",
+        "sha512": "c77f4cea583cbb4e057950e2a900916c4f0615a6a84173f7fc8185a5f73967bc43b543ef83a54d7e31be0909ce8616465ee321a1e07b8d5cb6c2f10077e50505"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/PI0hRkb0/YetAnotherConfigLib-3.6.2%2B1.20.1-forge.jar"
+      ],
+      "fileSize": 1111897
+    },
+    {
+      "path": "mods/spyglass_improvements-1.5+mc1.20+forge.jar",
+      "hashes": {
+        "sha512": "fab096bb353cd5982d3f2a0cb405cdfd7be0a985440b17b7eae44e3ec0dd10d19254b95c6c2ba28f8d51e913e7802230d426165404c0125d7475090d2926db36",
+        "sha1": "16166f37208282f35d1b16e780f282fc06c9872c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Z6ykjRlM/versions/chgnA6zJ/spyglass_improvements-1.5%2Bmc1.20%2Bforge.jar"
+      ],
+      "fileSize": 54173
+    },
+    {
+      "path": "mods/immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "hashes": {
+        "sha1": "d89ad3793ffb97df27f415ac6cc07c61460dd9f3",
+        "sha512": "4715d06078855f65d585530453deed62ca55e66ed9455e56dff77294a17c5106ab7aa9d117f34629d4d7b420b1b6e379b8d60e231d6327a9cb0a847aabab0e33"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jkskOO9i/versions/Fl2lADP9/immersive_weathering-1.20.1-2.0.5-forge.jar"
+      ],
+      "fileSize": 2269048
+    },
+    {
+      "path": "mods/recipe-advancements-yeeter-1.0.jar",
+      "hashes": {
+        "sha1": "724963f26f91e7cde725f779f27e054c9cac8800",
+        "sha512": "30fa910c1c5447cc887e3e9802937ace505477d2974eb239db3788072688afd8bb842e31e51ac9d21ff5d6cf86f6497115b3404a78271d9e543bcfb95c65d930"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ypb9Mccf/versions/KuBxKLJ2/recipe-advancements-yeeter-1.0.jar"
+      ],
+      "fileSize": 73751
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "hashes": {
+        "sha512": "a51b76fc41d19276bea2ebe081b153d3be53c502ef9de93593990f8b7bf644e3e4fd4cff17477abce16692f23aff3077be1762606f10ca1058771741ad652e2e",
+        "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Izqhg3Va/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+      ],
+      "fileSize": 387111
+    },
+    {
+      "path": "mods/neapolitan-1.20.1-5.0.0.jar",
+      "hashes": {
+        "sha1": "2ef19ce68ea3873d572eb1440da58b0f1f9a41db",
+        "sha512": "7d45b0ea7f477ab2b2e32b8431f42b40a92ae4b83b4f8d5b9918ca31d9180f4289c924294d281fb5d273360ecf3f60f68d2138d8fe86c9a80b387aaa8e8de67b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/InYMuiQt/versions/bSOBBF52/neapolitan-1.20.1-5.0.0.jar"
+      ],
+      "fileSize": 4664510
+    },
+    {
+      "path": "mods/owo-lib-0.11.2+1.20.jar",
+      "hashes": {
+        "sha512": "807e4a3daf493e92c5ff0d5657efbba2a4e0cd2a9b753f2d6f153422629415f189345842a6dd258c87d4c02ebf38950a517bcd8a7ed929af6ed6485ae46cf77e",
+        "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2%2B1.20.jar"
+      ],
+      "fileSize": 905421
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "hashes": {
+        "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+        "sha512": "4eb6a635f3eff3baa158539bd55344421cf69b15e28f7da8bf55f370a11c071f3525063a6f81b67fbfca550ad8aaab7e6208df87f65ca6ed2851edd46f032b58"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar"
+      ],
+      "fileSize": 1798244
+    },
+    {
+      "path": "mods/vminus-forge-1.20.1-3.2.7.jar",
+      "hashes": {
+        "sha512": "6bce174a8fd243ccdf2d30663ab6f3af9cb0121e12d7b37f202f53945193e24d02554580eb45d25016227add7ee98907db9708fcc4d67e48aaeda2ace922a5e7",
+        "sha1": "09f6f51ca100df875ea5fa2d4fc0c46de4221c66"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fWANN5B2/versions/PergjDF3/vminus-forge-1.20.1-3.2.7.jar"
+      ],
+      "fileSize": 706016
+    },
+    {
+      "path": "mods/mob-ai-tweaks-1.6.0-1.20.jar",
+      "hashes": {
+        "sha1": "97257e68923debdd1651de0e6cce5ba1902f6900",
+        "sha512": "22af0351bac8097d786e6794ad5a44c7baeb37bf1885a4902135123d00849291fecdb6c551bcee45409d21fc32135537b458707490d68fe0c6e96dc0ba48b094"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/egIM2bKK/versions/nmPBn7FJ/mob-ai-tweaks-1.6.0-1.20.jar"
+      ],
+      "fileSize": 356389
+    },
+    {
+      "path": "mods/asahi-1.1.2+1.20.jar",
+      "hashes": {
+        "sha512": "ce1580693fa66540aee3c54dbef99e8392af5be9150be59bb4edb591f2a21a2a65a9c8966fdb8f607048a07d9e9fb65cd48ec1867d3ecc2036c5aa6fca2e00af",
+        "sha1": "57b2a60a2dae7c5a58427beafffaec3059cc02c5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/CPo6Ht5f/versions/JkEwdOgt/asahi-1.1.2%2B1.20.jar"
+      ],
+      "fileSize": 10864
+    },
+    {
+      "path": "mods/nyfsspiders-forge-1.20.1-2.1.1.jar",
+      "hashes": {
+        "sha512": "37dad4c2fcd67a99300a90fe36b725d7276516411539824fde34766a331faa255e6ab2281264df437766a08a570e36fd11d5e2c904744a9aced3cd3ac36b9fc5",
+        "sha1": "20783131cc63dec55036ffde84ed72c7e3c648c3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/dOGM7ccu/versions/p98mV3Xm/nyfsspiders-forge-1.20.1-2.1.1.jar"
+      ],
+      "fileSize": 178046
+    },
+    {
+      "path": "mods/scholar-1.20.1-1.0.0-forge.jar",
+      "hashes": {
+        "sha512": "448286f1b796739674eed32818fe18f4cdc1202381b83e59d2e111fabd69333df5c720e3d372029c98d0e4870d6da56eab8104eb7eac468db3df41f155437b55",
+        "sha1": "2fb3112b979da6a5ba35bfdd45c46e956d14bcb3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fX4dIQCo/versions/2QGwG4ex/scholar-1.20.1-1.0.0-forge.jar"
+      ],
+      "fileSize": 198940
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "hashes": {
+        "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+        "sha512": "43c60d0cb98b1642d663e3cea68d50c01e9be82361851bf40c5c869e6593499aaf4b410d891d07a083f3c4b2df7fc06b2f8fbaa3c661a5061d46e250c017d30f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+      ],
+      "fileSize": 37178
+    },
+    {
+      "path": "mods/QuarkOddities-1.20.1.jar",
+      "hashes": {
+        "sha1": "69ed292c207af89febd156d83b3e78f64b35b969",
+        "sha512": "d861797934748481931e00b9958500d83a9160fbe111b4bd4bd05777103daa48127906b21211436b5c2da2a9aef9d868459c5aebb5b1627b20c6f5d63dc54169"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qeEEslrN/versions/NrzERFzz/QuarkOddities-1.20.1.jar"
+      ],
+      "fileSize": 915
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.3.5+1.20.4.jar",
+      "hashes": {
+        "sha1": "b4d79e1b36f74e8c18c8dd4de66e1f020ce523fc",
+        "sha512": "b181e4c4f2104e60bb3e83b1bb45be356f9177b100bcc1319c9bc4412f59459dc1500cae4a1c90b23e0159b866d783486d29d87abaa86d2b368633fde4858e12"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/vY0gRu5i/ImmediatelyFast-Forge-1.3.5%2B1.20.4.jar"
+      ],
+      "fileSize": 449751
+    },
+    {
+      "path": "mods/TreeChop-1.20.1-forge-0.19.0.jar",
+      "hashes": {
+        "sha1": "15908d3a913d8f9f5a7e1ae6a781a1caf15830bc",
+        "sha512": "ef5547a56443e1cd086386082447262b868d91f3cc68e3ff94a797b0ada84d86a5b148a94f940e6365e40a8952d776cd81682f02c2d840205c8f8835b090b3f2"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gHoB7SHO/versions/rhBPK6sB/TreeChop-1.20.1-forge-0.19.0.jar"
+      ],
+      "fileSize": 517162
+    },
+    {
+      "path": "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "hashes": {
+        "sha512": "47f298943079eb6b8f5222cbb093fec0c29c86a6f68e8000545059d64ff5c4cbf76fa774565a0d4d89d1fb0a278b62292f7619fb818e4fdfd9f01a637e7fcbfb",
+        "sha1": "7603f44bc4750774fbbdc07a3153c391650fcf3d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vqqx0QiE/versions/VNFB2Vgv/sodiumextras-forge-1.0.7-1.20.1.jar"
+      ],
+      "fileSize": 438540
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
+      "hashes": {
+        "sha512": "def780dc76c9701ad3947c5f4dba4f75a4717c51bd1b9433967ed5f5ae88a23e03dab61a32b1d8217f86fe9cbaa230a76b8d07c3926bf5b7ff54989602d476b1",
+        "sha1": "0a4331b9670a3ad2467aac1d766d12cb9c0d4629"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OsZiaDHq/versions/ERxjjtmi/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar"
+      ],
+      "fileSize": 1158550
+    },
+    {
+      "path": "mods/fabric-api-0.92.2+1.11.11+1.20.1.jar",
+      "hashes": {
+        "sha1": "88d7d65c27ea7999e4f5b040ae1a944c363dc1ce",
+        "sha512": "b027f79fb8322b48a9a498940839435f1ad32159b03abf2febbd5435132d92b3fc11027a99560244e3f52cf5a2c7ddb281baa73ea07395a2ddc2a852992c839d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/MwQ968Sx/fabric-api-0.92.2%2B1.11.11%2B1.20.1.jar"
+      ],
+      "fileSize": 3041233
+    },
+    {
+      "path": "resourcepacks/Unified Zombies.zip",
+      "hashes": {
+        "sha1": "46b28200e47502aff01886c3ba440a5a06b09e02",
+        "sha512": "5421fe15e03c8d8a705d850d0a97ca223af32fee3902a6630e31c1ab7b32dbd00272fb48ba508368d096e6a8e050d2fff82d8bc908afa65fb5d827a43d78e06e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LaK75rwp/versions/byaAS1LI/Unified%20Zombies.zip"
+      ],
+      "fileSize": 66630
+    },
+    {
+      "path": "mods/MRU-1.0.4+1.20.1+forge.jar",
+      "hashes": {
+        "sha512": "be202bfeb3724ff4433b51e02764c2498c36ed01229306492260c0bc2f3c62b9f8a3f500baf083210fc683723a60793db8c3e384b28e7da599806cf3c489fdac",
+        "sha1": "c92d6d7cf2ffa333d64752edcde2b3c5a3e6edab"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge.jar"
+      ],
+      "fileSize": 287393
+    },
+    {
+      "path": "mods/blueprint-1.20.1-7.1.1.jar",
+      "hashes": {
+        "sha1": "9f5653787c8e871bfee462948f2093cf08734c61",
+        "sha512": "ba2d5b79c79304d3452daa7a53dd1508ae1677292294b10d9ea5589222129b399cefb743b9c2d3a638f6e7c7ed4ef7100d148415613d98ebddfbfcd1c09c83b9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/VsM5EDoI/versions/D4gcSnZh/blueprint-1.20.1-7.1.1.jar"
+      ],
+      "fileSize": 1136146
+    },
+    {
+      "path": "mods/mobtimizations-forge-1.20.1-1.0.0.jar",
+      "hashes": {
+        "sha512": "6b4687616bbeb1afe6dc13fd291373ee4af2bdc26a5a3367ec20500f9afac4706a3b26a65e52bded5d8cb4a7d8782c0e742002bf7ca2d66b54f5ea35879f413a",
+        "sha1": "1e7de73072e0adc9f09494cd79a79b1db030c293"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Kbz7UydC/versions/mEhoYk0d/mobtimizations-forge-1.20.1-1.0.0.jar"
+      ],
+      "fileSize": 22739
+    },
+    {
+      "path": "mods/ToadLib-1.20-1.20.1-1.3.0.jar",
+      "hashes": {
+        "sha512": "9c629ad897cf1566d0043484400597ed26c33fb3fd349ce25bbd51c9aeff263e2b9a507a7e5301d35d7a6c446640880638f1d90cf88ab3926952c4d028298686",
+        "sha1": "952b36ff89498e5ec8f1953bb7e17b60f9cf5f25"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/CYQ7VYrM/versions/yGMP6HI9/ToadLib-1.20-1.20.1-1.3.0.jar"
+      ],
+      "fileSize": 644655
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1320675
+    },
+    {
+      "path": "mods/better-clouds-1.3.25+1.20.1-fabric.jar",
+      "hashes": {
+        "sha512": "c729f84cbe0eb5c65ddc3a8b3ff9a77be09c455f6f4c84eac5d040ecd7e18f4b90bf006032cff8d76750a1865bc1bfadd8a34f5e48ec1c2fd985e20c201e0f20",
+        "sha1": "177a3a85ec5138ea48c969c8ffb05decef14ea8f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5srFLIaK/versions/qAYDvCSj/better-clouds-1.3.25%2B1.20.1-fabric.jar"
+      ],
+      "fileSize": 583921
+    },
+    {
+      "path": "mods/ACE_mc1.20.6-3.1.1.jar",
+      "hashes": {
+        "sha512": "d53e3a09aaab2615fdccd5d32858f825fb075169d72bf17c5c69f5c182be889bcf0e28f91a1a6f9a28303dcf1df478f9476eacbf7017274533fa4addeb9705b7",
+        "sha1": "7455fc4b8245bc4745c161674f60700f2adf6968"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/V8qsCwta/versions/RLAkkIZ6/ACE_mc1.20.6-3.1.1.jar"
+      ],
+      "fileSize": 31850
+    },
+    {
+      "path": "mods/Rainbows-1.20.1-1.3.1.jar",
+      "hashes": {
+        "sha1": "e46ac97d8b9ea81fcc5e054a84fc963a79d6408d",
+        "sha512": "bb8c9d0ac3a8e55e36319ad451492aa7a8b5708095206e2c7b6ac8063a94058ad681a3a086414fbff82b1008dcfa52b0c8e198efd2a892c39428f753706f8789"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MdWygI5q/versions/oqtCOh3K/Rainbows-1.20.1-1.3.1.jar"
+      ],
+      "fileSize": 2310247
+    },
+    {
+      "path": "mods/sleep_tight-1.20-1.1.19.jar",
+      "hashes": {
+        "sha1": "7080c6452bb7f3332e6f973d6ef75c456741b0b7",
+        "sha512": "b14b7f16c7d9bc4183e0781f4ded1913c285a3230d835e2654ed88731095aa32030c16462d040533e13450f25d97e80aa9c8f205e7f4204511415ef6024db2ea"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tNai0h2Y/versions/iBTTQBfH/sleep_tight-1.20-1.1.19.jar"
+      ],
+      "fileSize": 735748
+    },
+    {
+      "path": "mods/stonezone-1.20-2.7.9.jar",
+      "hashes": {
+        "sha1": "d053c4e4cf391405b61125d064b06e53fc49d85d",
+        "sha512": "d5d89f636629239f1a0ef92245dd118fa2172816c8fa200b3ec7726980af5d8aae4a8fdede65109ddf4a13e08c60813e5e1bcd2debf1be5bf3b1037251317fcd"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uYwn8IP5/versions/PkakL4l5/stonezone-1.20-2.7.9.jar"
+      ],
+      "fileSize": 884277
+    },
+    {
+      "path": "mods/ocelotfix-1.0.0.jar",
+      "hashes": {
+        "sha512": "b520d8d4cdaa4b3bdb80e89e9f6343bc6327f34fb90925cdce6d40fd104cc73e2b4895590ad7e442405ba56e1e29f6681e636e7db2b7a5ea4b9efd685a7464c8",
+        "sha1": "b3953176b3b91f89425532a2d698b41ec7add88d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/198ZdUr2/versions/PFpILIB8/ocelotfix-1.0.0.jar"
+      ],
+      "fileSize": 12592
+    },
+    {
+      "path": "mods/pet_cemetery-1.20.1-2.0.0.jar",
+      "hashes": {
+        "sha512": "1a6dd13428981a11aa94e81de1049d929b86f8f3f9431a8db95328e3dd674e9b13d0d070d2dd7a34800c057366c42cec665cf0e2bab53a3cce0615b3c0186dac",
+        "sha1": "0800497d8ac520d7d5d47096279c2753cdcf20c8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/M6tSWZ4N/versions/yjuFG8ni/pet_cemetery-1.20.1-2.0.0.jar"
+      ],
+      "fileSize": 283456
+    },
+    {
+      "path": "mods/sawmill-1.20-1.4.6.jar",
+      "hashes": {
+        "sha1": "5bb13d514e1d370e5138c5839395b910f8d4cefe",
+        "sha512": "776eaa38308a8222484854d140cb59141183f1b37a8577213693703c8f340bc5c6c8c1ef0f0950b3c1e037affc35b2fe36991d9dec696fe22473c4e7a8fc9164"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WRaRZdTd/versions/uzhV71sX/sawmill-1.20-1.4.6.jar"
+      ],
+      "fileSize": 644232
+    },
+    {
+      "path": "mods/EuphoriaPatcher-1.5.2-r5.4-forge.jar",
+      "hashes": {
+        "sha512": "269f9597250be75428f1af4f5f0b9b956648a8c356e031c104b2d6e8c7f37ec3da79b26a10c2b1c3fcfcc434edb4f4c880c73b8a010eddef06113aee6fcae960",
+        "sha1": "96fa02e683fafcce060986073a5a9f94c0324fda"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4H6sumDB/versions/2nkaoBFo/EuphoriaPatcher-1.5.2-r5.4-forge.jar"
+      ],
+      "fileSize": 727871
+    },
+    {
+      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "hashes": {
+        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
+      ],
+      "fileSize": 218152
+    },
+    {
+      "path": "mods/BetterBurning-Forge-1.20.1-9.0.2.jar",
+      "hashes": {
+        "sha512": "ea1c2527c6cdc50ad551d297de595484761c0fd4d7dee50f03d263635e17ea5f32fb5fc843901535c8dbead0b9807be70e46824b6c8d75732738d63b0d51bddc",
+        "sha1": "57892d336534d4c43d2e338c9b64eeafeb2a35f2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uNBP8Xul/versions/ofC4BKPB/BetterBurning-Forge-1.20.1-9.0.2.jar"
+      ],
+      "fileSize": 12861
+    },
+    {
+      "path": "mods/elytra_enchants-1.0.3.jar",
+      "hashes": {
+        "sha1": "a92b6c59fcc3c7e39d7a622a24156c9a593a560f",
+        "sha512": "7d783678513b79cfd50f599b21033c3b6c7cf8b395b8b4151536f9e53288b8fd4519b93cf9e5ca6c231a28f3a4cee72a31be9aac5b931b0383bb4ad2bea4416f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kjeo1Vlk/versions/KXqGrQo2/elytra_enchants-1.0.3.jar"
+      ],
+      "fileSize": 19009
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "hashes": {
+        "sha512": "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5",
+        "sha1": "984f774e71790deaec674c7587bd24e0711871b2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar"
+      ],
+      "fileSize": 2851119
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "hashes": {
+        "sha512": "bceefeaf84dffd7386a61118d6b1c6c2107e17e7a8f4340eff2c1f0234dba0e6d8f43903521d5a70334362ab6e4069788e5b29cf42d8ee9cd4f2a98feb64112b",
+        "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Z2mXHnxP/versions/2nUEz0zq/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+      ],
+      "fileSize": 619255
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hashes": {
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+      ],
+      "fileSize": 123034
+    },
+    {
+      "path": "mods/moonlight-1.20-2.13.70-forge.jar",
+      "hashes": {
+        "sha512": "14ca3fcb18031f242ca8715478eecc30c6616967228c747d04fce20116bb0035d37d5318c7239967ccfd22915bf331bcd79d159a5d97708a6198085865c62199",
+        "sha1": "b01d3639be1b92b74f9f86cce12d32df8fa51e0a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/twkfQtEc/versions/WqR77U2Q/moonlight-1.20-2.13.70-forge.jar"
+      ],
+      "fileSize": 1233032
+    },
+    {
+      "path": "mods/flourish-forge-3.0.0+1.20.1.jar",
+      "hashes": {
+        "sha1": "6427b2141cf2e5a7c6915593423b2c1c41ace5ea",
+        "sha512": "4bd0b5afd48a5e5c37a9aecbf20c9dbb6b9d8fdf4e821ad34c402e7cdc621900e595e3287839507240d5319c37598a3bdfd2e5963d2b0941f9953311d5e1488a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nNI4DwbW/versions/TiOuKZv8/flourish-forge-3.0.0%2B1.20.1.jar"
+      ],
+      "fileSize": 17240
+    },
+    {
+      "path": "resourcepacks/Connected Paths v1.2.zip",
+      "hashes": {
+        "sha512": "9006fe9983f3c94803505122b55a72a8cbf22de356b7d00674765ab1ababa01a0317ad1848f2b30700aef1fdd5de7b9f2a88e3a663af175099d917d4e483eea2",
+        "sha1": "71f6f22a3201d8f31f9eb4da17e30c8119a8094c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Nyfj98b5/versions/C0StoOqM/Connected%20Paths%20v1.2.zip"
+      ],
+      "fileSize": 453925
+    },
+    {
+      "path": "mods/particular-1.1.1.jar.disabled",
+      "hashes": {
+        "sha1": "f392b6c80edf5518b52ffe7667198202a0bcef8d",
+        "sha512": "a858d77246f1da8ba4e32fa61cad935c5366f422db2a1fc6f07bbf1e3c4fb1a44839d240dc7325964ef840f49d51e78ad3068e872b8153234b225bfa25c29d70"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/B1CcCd9h/versions/19UWxtiZ/particular-1.1.1.jar"
+      ],
+      "fileSize": 230403
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "hashes": {
+        "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
+        "sha512": "1143753a001bccb3fc84c699cc93343f1941da9b7a63d3a3b8078808262b42962f8b10a2c16ed97a49c058865a6dbaa7e85a1e8842b95039d222f06ab4ee9509"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uy4Cnpcm/versions/tNwsir0K/Bookshelf-Forge-1.20.1-20.2.13.jar"
+      ],
+      "fileSize": 343962
+    },
+    {
+      "path": "mods/Sounds-2.2.1+1.20.1+forge.jar",
+      "hashes": {
+        "sha512": "f8195ec5f9611f9b96c5a23cfd81cb09bd1ea2721533aa768e550cf14c870b1dd384b6b04f012d0d5a09af1701d3cdc87ffad047e4ab5d2138094f60405b586c",
+        "sha1": "e75686799054958804d711b1b6ceef4d132764b8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar"
+      ],
+      "fileSize": 10974911
+    },
+    {
+      "path": "mods/mindful_eating-1.1.1.jar",
+      "hashes": {
+        "sha512": "100c359ef9d068a3125c247a5a1ce3f68ec9ef617ea0a2f30d36c3add2dcd5da07ab085c21822f61f7ff5364b8ffea71e73eb3e7aa4935e6651682c673bd0761",
+        "sha1": "4b289ef8cfea4e7677eaed79db8a50d1ba94ad98"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/R1cPLs6u/versions/BvAMVUiF/mindful_eating-1.1.1.jar"
+      ],
+      "fileSize": 49136
+    },
+    {
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "hashes": {
+        "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
+        "sha512": "f4d7b0eb70a605ffb81bebd24fd125d8c0bc7917c3e00f27bee64988836323de5a3d205e89a4a5f8ae75741ca874f62996e7c8e5ed489dc3c1824337e93d263f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar"
+      ],
+      "fileSize": 227925
+    },
+    {
+      "path": "mods/GPUTape-1.18x-1.21x-1.0.5.1.jar",
+      "hashes": {
+        "sha512": "4bcfccf92a9b2e5842864b23caef9805da8a849928a711029ba9df0364cf50f66cf0f58bacca5316a0b7b1d10cb62569aca7e6d9f894c3a42100dc6d9a80cca7",
+        "sha1": "db4a84db628dd668e08898e42e881615d34f0629"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5CTSrY8X/versions/mMc55fB1/GPUTape-1.18x-1.21x-1.0.5.1.jar"
+      ],
+      "fileSize": 20295
+    },
+    {
+      "path": "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "hashes": {
+        "sha1": "71b1603071461e036a3ba2aaeeb52cc10fa3d348",
+        "sha512": "1d037fd49a9b80eecf2ed8e3b64178d1fbae7cc2a511813ab8b627479713e79a98af0896366e1ad2a3fa3f9849eab086166c1a27227f6d9370c2738132d859e6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qthuEuVy/versions/wPOb8yEG/CullLessLeaves-Reforged-1.20.1-1.0.5.jar"
+      ],
+      "fileSize": 22474
+    },
+    {
+      "path": "resourcepacks/Authentic Shadows_1.20.zip",
+      "hashes": {
+        "sha512": "6bba83f63d6e48d779ca8d01fd894cf6e8ea408d75857a047ead52583450ca37721add7c0b8bb086cf3e1bb271cf1356d7238d8a28256f30a9b8038318e348d3",
+        "sha1": "7f8a8dc251610616c52e1cc49e910f8778c7adcc"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kWgq7eAt/versions/pNrcjevO/Authentic%20Shadows_1.20.zip"
+      ],
+      "fileSize": 7667
+    },
+    {
+      "path": "mods/TaxFreeLevels-1.4.8-forge-1.20.1.jar",
+      "hashes": {
+        "sha512": "5456814c85b6a8676085c51fe3ccf005918267aede76d1415d9e9ef0d16fc20e768b27301e70c0765c9c07fedc5895f3c378d74c6df113b98654d044f2d2dc5d",
+        "sha1": "d8d975ea8c0fed5ef11f3bc20535b19f67cf6cb2"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jCBrrLTs/versions/1SZb4aej/TaxFreeLevels-1.4.8-forge-1.20.1.jar"
+      ],
+      "fileSize": 222762
+    },
+    {
+      "path": "mods/buzzier_bees-1.20.1-6.0.1.jar",
+      "hashes": {
+        "sha1": "d92322f51b864a40a6230cfb20692c0a98039917",
+        "sha512": "7a84e9920286dd6647d2440672a5c501bc73cfc2c09a7c437da6320b7ee9e50d982b35ccb77fe28ce66946b89c99bdf96af11e29befdcdf621a0cc1247eddb62"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/b7vOFSIp/versions/6jop5A7X/buzzier_bees-1.20.1-6.0.1.jar"
+      ],
+      "fileSize": 558630
+    },
+    {
+      "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "hashes": {
+        "sha512": "f4d9ec11b9604f59552cbecf4099600e7adef993cff37af0badac29505bd47aa9615acd140ee808b51754b048c2d61e2f942f656ff391df1e080cbffdfec5112",
+        "sha1": "bba0b08fe76b28b35243fee53f99d54a18153b53"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+      ],
+      "fileSize": 87551
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+      "hashes": {
+        "sha512": "6fe8b495c37bb3da158d461d5613f3a5414b77693c98ade3b5930a28d4b0f26c654ca9fd9eca96d98b7bce27f0e5c6a1a908bec74b58c03d30cb92503f22f446",
+        "sha1": "18bb3f31d3188f8d5d96e80061615e260be2d44d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kkmrDlKT/versions/HI0iCUpi/TerraBlender-forge-1.20.1-3.0.1.7.jar"
+      ],
+      "fileSize": 107534
+    },
+    {
+      "path": "mods/betterbiomeblend-1.4.2.jar",
+      "hashes": {
+        "sha512": "f3ed0ae1d5c6940f04ba77087f128919c7ec0bb1d98965a967e8ce8a733f90efed4e620f428522579ea8a4fb1b07fe8b750cb6776c6399c0f71a686406cf204e",
+        "sha1": "02cb03cfd38763177928855083207e8381bf659f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Xh8hkQmD/versions/FBM8BqFa/betterbiomeblend-1.4.2.jar"
+      ],
+      "fileSize": 54314
+    },
+    {
+      "path": "mods/ash_api-forge-3.0.2+1.20.1.jar",
+      "hashes": {
+        "sha1": "83d898e31472b099301710e7b677556cc94eca7b",
+        "sha512": "861f413fd6806ba436375d83302facad39440436bafe44c0ae4f145c1dfcdd95ad9c346655ca9976f4743b7c8b8ff65c3364a67bb1e9a468263b7005a28a451c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Q8xUICr6/versions/mfSxdCmQ/ash_api-forge-3.0.2%2B1.20.1.jar"
+      ],
+      "fileSize": 39020
+    },
+    {
+      "path": "mods/vectorientation-1.1-1.20.jar",
+      "hashes": {
+        "sha512": "7c9d37d26f5921aa990b6a95420e092de317aeb8729a7cf2c2a5015772049db3d24c2baf17daedc260bf9e4a3f75b92efaa947658b54f2496bb9a8381d70fa3c",
+        "sha1": "331d92c85d2e9ff4622fa963e040ba315db70b18"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NpPKJQg6/versions/y9SK1Hsk/vectorientation-1.1-1.20.jar"
+      ],
+      "fileSize": 53099
+    },
+    {
+      "path": "mods/blended-compat-1.1.0.jar",
+      "hashes": {
+        "sha1": "ab36872e2ae75579b4a73941dbd82ea8352a6558",
+        "sha512": "43339353577ba115a26e744b6d5c16ebb576c81108f26854c8e1e48491897ceabc0f1eb5e656087a8e98d32416c5bc1150ed0c4bc83b7da8e0d41be6d823ce8b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QENxoXyf/versions/RavKps5A/blended-compat-1.1.0.jar"
+      ],
+      "fileSize": 155924
+    },
+    {
+      "path": "mods/particle_core-0.2.5+1.20.1+forge.jar",
+      "hashes": {
+        "sha1": "d791c2000b0985bdef906db93b9313319ac47aba",
+        "sha512": "1da3ce936ce34f60ee96aa1faab9fec89f1227152a3c146bbe48a404cb93918f1f8722a6c44afc3eda8a9e4ea6f97a61ad6788da6085aec1816b1c3871e15c9c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RSeLon5O/versions/2pgXWmty/particle_core-0.2.5%2B1.20.1%2Bforge.jar"
+      ],
+      "fileSize": 95351
+    },
+    {
+      "path": "mods/incubation-1.20.1-4.0.4.jar",
+      "hashes": {
+        "sha1": "9aae244f95985706f7d48437830670d9ade130f7",
+        "sha512": "b3a1dc70385bd91bd97571bdb9779ad5d6add6c5cbabc028bb73f700027a2bf03166f40f2214a2895dd4b8e8754a1c93d9aa55879c0ffb003d821b852fe787ea"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/A4Xrv60A/versions/WAqOPLlv/incubation-1.20.1-4.0.4.jar"
+      ],
+      "fileSize": 482946
+    },
+    {
+      "path": "mods/Quark-4.0-460.jar",
+      "hashes": {
+        "sha1": "3aef3c60a7f77e17c630df05cbb9da72d274b683",
+        "sha512": "aebe10ece0231560aa38e269c3f46e0fe9a7e77e196054abde7fd1604b4f8b6857d03a7bd68e8983e8109431646a9df9090c32c4af2bffcfa5e4dd7efea97706"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qnQsVE2z/versions/vIWYw2yn/Quark-4.0-460.jar"
+      ],
+      "fileSize": 14818038
+    },
+    {
+      "path": "mods/environmental-1.20.1-4.0.1.jar",
+      "hashes": {
+        "sha512": "f54e5c5116bf29810f461056188c76d8554c33909fcd4f2b53d3fc010bcd6d9317411580de09eae71a47edc8f031a268b88f48bde4590c3edf9fa06426010a91",
+        "sha1": "afa2533b48444c50b9842275ec81d6185afe1ad2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OqtiAZcV/versions/k7F41lm3/environmental-1.20.1-4.0.1.jar"
+      ],
+      "fileSize": 7517535
+    },
+    {
+      "path": "resourcepacks/BatBackport-16x-v1.1.0.zip",
+      "hashes": {
+        "sha512": "965f1d5451072a3d13d700a9c332dc4ade692d6d6d1b5ceb11ce114ccc00bc33099f467e1ef575a5ec1781fd481f3247b87f916990a7da47589600bdb8884936",
+        "sha1": "aee1ab339c30e7d4892e5e561f2ef305a9599a30"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YTtix6YG/versions/h92kf7k3/BatBackport-16x-v1.1.0.zip"
+      ],
+      "fileSize": 10276
+    },
+    {
+      "path": "resourcepacks/AL's Creepers Revamped 1.3.zip",
+      "hashes": {
+        "sha512": "a2f8457580d037ed9dcfa2253bf44d45035ab2c7b611b6a52e66fb7470af95f81c4cd992e789c2252463be8c383004eadcbc72b07186f5ad639fbd7f73b51a04",
+        "sha1": "cf3f673dcdeb8b29b373f149293950c07476b669"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/d2srP5t3/versions/M9V8lKDB/AL%27s%20Creepers%20Revamped%201.3.zip"
+      ],
+      "fileSize": 171432
+    },
+    {
+      "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip",
+      "hashes": {
+        "sha1": "2cb70d79e64504d0d6641271c067df9b1e495ab8",
+        "sha512": "ac0cb4207d3b20fd94e899b63e7a29cf7e1836cb711181f94d72be5ecb8454293a87135998f7298628dc88b2cb79d59a9be2ea1cd9ebfb24ef5d1e2a16e4361c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/slufHzC2/versions/lHNQh6Gv/-1.21.2%20Fresh%20Moves%20v3.1%20%28No%20Animated%20Eyes%29.zip"
+      ],
+      "fileSize": 251791
+    },
+    {
+      "path": "mods/fancymenu_forge_3.4.6_MC_1.20.1.jar",
+      "hashes": {
+        "sha512": "cf75b236d9c9d459eed187b2c52be837ebaea0bac6fc447e198fa2994507b80fac0d5a998b12a1c30e4718e809379845e52f19ede53590cc43c357f82a50fc1c",
+        "sha1": "9e7fc73dacca36b8b93fc5e67ed919dd295ae9c9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/UQK8sljp/fancymenu_forge_3.4.6_MC_1.20.1.jar"
+      ],
+      "fileSize": 3236834
+    },
+    {
+      "path": "mods/sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar",
+      "hashes": {
+        "sha1": "797554fd7d20a86fc168d2df83d611ed12185b05",
+        "sha512": "e4c6daa11fe54f0f624044f6d514c5af399fdab41bad582aaf9581821ef72be4a459593731cda526bcd2a86ae73b2c951f901987e18691cb38989d7592d8116b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Yg1VT27P/versions/VSq6XYM3/sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar"
+      ],
+      "fileSize": 181349
+    },
+    {
+      "path": "mods/Ender-Relay-1.20.1-Forge-1.1.0.jar",
+      "hashes": {
+        "sha1": "e8c245a88d016a99fe05887a77c16da98bfd1214",
+        "sha512": "89949022e8d40e6ea5ba214d9ae3c5c77804e7d78751d6165d09448281d303a81cd9e99b152692b83f2f580a2d63f889fae8e2ea60602bbd8e59fdbefe12eca9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/X0uEaA4Z/versions/tspQRcYJ/Ender-Relay-1.20.1-Forge-1.1.0.jar"
+      ],
+      "fileSize": 82249
+    },
+    {
+      "path": "mods/oooze-1.20.x-v0.1.jar",
+      "hashes": {
+        "sha1": "2e4af93e45565c24b0bc27ad79804682af15d581",
+        "sha512": "a9571bbfc9cbb6797118b77c78f3658e4091254f242d66c5a916b55f4bb1c85e90ca5be6a80f447a499eb4c45c514d098645eca9c38cb23bd7b78fe1387927e0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u6FeN84V/versions/T4Jb2lik/oooze-1.20.x-v0.1.jar"
+      ],
+      "fileSize": 36059
+    },
+    {
+      "path": "mods/SnowRealMagic-1.20.1-Forge-10.6.0.jar",
+      "hashes": {
+        "sha512": "35a27608ccb59bb9ce9226e545294cd4790260d2432cde8d7050037d1b61c362b639cdbae99b2e75532a3cd905d5e5a5d2e6ca1d5844ef2ed1f8195bae7f0650",
+        "sha1": "35ba46d68dd605f96afd505bf35d455c1536c4d7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iJNje1E8/versions/bNWqJXif/SnowRealMagic-1.20.1-Forge-10.6.0.jar"
+      ],
+      "fileSize": 343961
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.4.8.jar",
+      "hashes": {
+        "sha512": "30b3443e6e677619c68ec63600f58bc7abf14c9f2242dbc16f7e59d26592a14f39c3b29dbfd759d9de62550153823792d7549e4d5c3838575f297339090ad1e7",
+        "sha1": "e391696f49028a4d118b5e5895d3f0f696b97644"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/O13IgRhY/sound-physics-remastered-forge-1.20.1-1.4.8.jar"
+      ],
+      "fileSize": 197075
+    },
+    {
+      "path": "mods/etched-3.0.2.jar",
+      "hashes": {
+        "sha512": "d932c4fb13b62e92f33dbad0d826e3f08f338d05e166421bf997101176b468f23792931b2c6f154e3b2d1c6fde5012a3ae5a98aa7711da5eb41184523d834046",
+        "sha1": "792f055e76eb7a13efe26552cbccad66c2585860"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zi3Fnfmc/versions/M178L4Do/etched-3.0.2.jar"
+      ],
+      "fileSize": 610871
+    },
+    {
+      "path": "mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "hashes": {
+        "sha512": "ae854893f17c3e42825e88119f4bd6be8948612494780194cb1c1cd5d65d571c91e7222c286cb734b3af363f927a6be8ad05347cd2c3fec6e1874b4aaac14c7b",
+        "sha1": "0b0a3ff3b244fa191b3f9580547071dee46f7276"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/G1s2WpNo/versions/XkYduFuv/BetterThirdPerson-Forge-1.20-1.9.0.jar"
+      ],
+      "fileSize": 61525
+    },
+    {
+      "path": "mods/notenoughanimations-forge-1.9.2-mc1.20.1.jar",
+      "hashes": {
+        "sha512": "972bff34a36cdb198138372e30f975503a670897886a76ee6f3db537c08a73a635f6b6f56fcfcb54e449cd60b87e783a6363e8afdc24e599e78957e45bda6c73",
+        "sha1": "c9666025164bcafed9e6d03057ec8a31ebbce170"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MPCX6s5C/versions/9nsxApYz/notenoughanimations-forge-1.9.2-mc1.20.1.jar"
+      ],
+      "fileSize": 455945
+    },
+    {
+      "path": "resourcepacks/FA+Spiders-v1.1.zip",
+      "hashes": {
+        "sha1": "06bd530dc4c6a64279713411e7d83a94a01ffc19",
+        "sha512": "94a18e5e600d66a98d0a9a8eee10707df1a5f06ef777ff779e7b5c677fd1c1798c5cffccf273e1de52afc950270d103c44bc45e6e053953909a0e260f8e8a7b9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YAVTU8mK/versions/QlsnnYa1/FA%2BSpiders-v1.1.zip"
+      ],
+      "fileSize": 70808
+    },
+    {
+      "path": "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+      "hashes": {
+        "sha512": "4ae07091f258c3378f5f55fe30c2d7cba6aaf49155c25fb3585d00486e8d965935f3ba8c9f070ef5393bca591c2df7a030893e1c350aeaae31881a05bb3e0f89",
+        "sha1": "821b958ee15d97b19583d00f9513093147417540"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DyTvM1dv/versions/BYzQMmi7/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
+      ],
+      "fileSize": 7335
+    },
+    {
+      "path": "mods/collective-1.20.1-7.93.jar",
+      "hashes": {
+        "sha1": "c4feddd2423d2b512d9aa9bf1d09907f0939d484",
+        "sha512": "304d2f7c505e10d1708a7b3a960057a658a7b4a50f5f25198de1b716d7778e2d66fb2dce617f41b4f929bf27d043bdcbe250f82f6bc11a55e320b6fe4b8d132d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/e0M1UDsY/versions/k2Ch7TrO/collective-1.20.1-7.93.jar"
+      ],
+      "fileSize": 654394
+    },
+    {
+      "path": "mods/dismountentity-1.20.1-3.6.jar",
+      "hashes": {
+        "sha1": "8c61481080f7665c124f6051a0544b19b0dfd793",
+        "sha512": "071f0596af218aebabaeae1cdd52c9c2e712c96969df80c4635c1b810afa6605cb5459ffb92b23d89d4b46be9330a185edaea8c5ed39b71477066d49daefc934"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/H7N61Wcl/versions/8dvHq4gs/dismountentity-1.20.1-3.6.jar"
+      ],
+      "fileSize": 30886
+    },
+    {
+      "path": "mods/advancementframes-1.20-2.2.7.jar",
+      "hashes": {
+        "sha512": "faf833dfa219f92eac6ab72f7040426ed3726a1c8711169a0ab64c22db6b005f8e575a0dbfdc8fd4254c746645de84a28c9498d054334aa22cb861627862c0ee",
+        "sha1": "c87f89d50e050752b61c6d7121bd766842fc0766"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zUBn5hHr/versions/syxp8b5I/advancementframes-1.20-2.2.7.jar"
+      ],
+      "fileSize": 124994
+    },
+    {
+      "path": "mods/caverns_and_chasms-1.20.1-2.0.0.jar",
+      "hashes": {
+        "sha512": "d7d9265f96ac34fcaf029491da63e66f614b84cde6e41d40732a714286fa1e5f748dfe8057baf2ce86247166dd1bd2f32349abcf0372ab6e87a6ea08d85077e0",
+        "sha1": "d6adb09c4b18e23990d200741b2723da6dd3a4ae"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tfjmPSbI/versions/fsal1BlK/caverns_and_chasms-1.20.1-2.0.0.jar"
+      ],
+      "fileSize": 4857919
+    },
+    {
+      "path": "mods/Drip Sounds-0.4.0+1.20.4-Forge.jar",
+      "hashes": {
+        "sha1": "890982bedb97c32fe962a2cd680f6d960c7bc41e",
+        "sha512": "e7a8622879e1f40b7599856195532f7df085ef89c0b0a08876786a2ece186ef9ec10bd531cb7c4300a154c40685ef019966b2fe23cb79ee282f5460978ee7a4d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/T8MMXTpr/versions/MbDSI6QI/Drip%20Sounds-0.4.0%2B1.20.4-Forge.jar"
+      ],
+      "fileSize": 55747
+    },
+    {
+      "path": "mods/YungsExtras-1.20-Forge-4.0.3.jar",
+      "hashes": {
+        "sha1": "4b2e632353a95c16a080c2e64c426480a139fbd6",
+        "sha512": "2c70e8e2c8e6161139bd19d302e225f7c12dc44f9cbdd63f4a548645fe923eb16de930abe2d2f8a89bee99f31d77798b7352bbd33f3642560cad18d86d372d4f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZYgyPyfq/versions/h4m8J7w8/YungsExtras-1.20-Forge-4.0.3.jar"
+      ],
+      "fileSize": 200341
+    },
+    {
+      "path": "mods/Explorify v1.6.2 f10-48.jar",
+      "hashes": {
+        "sha512": "3d9ec324a1cbe4d98bb4b47bea721e1b629e11ba9b2c07d6da7a844b941f2ce71092edfbe56c62c8e14c7eda15652986de464b80ececb22334181510f374ccbb",
+        "sha1": "f04907ed21f6239f90031cfe1d79b43e3ef76cb9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HSfsxuTo/versions/yRSH0sWM/Explorify%20v1.6.2%20f10-48.jar"
+      ],
+      "fileSize": 974818
+    },
+    {
+      "path": "mods/Tips-Forge-1.20.1-12.1.8.jar",
+      "hashes": {
+        "sha1": "bb1aaf585ac975f94d27162a1346c60a8d8f2765",
+        "sha512": "73930800913520170fe20cc4cb7b30e175ab19e8457e572f20ddfd47082a5a7fa12e7072f278b3ed4191a59efc979f65a9c9592be1287eba3faa65ed35b2cc4b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AMCbgyVw/versions/Op6VN0JV/Tips-Forge-1.20.1-12.1.8.jar"
+      ],
+      "fileSize": 130094
+    },
+    {
+      "path": "mods/nightosphere-2.0.jar",
+      "hashes": {
+        "sha1": "779cbba6e2e52dcb0bc2d008a7f94486157913aa",
+        "sha512": "4f43619da96103133d70819e2ca9b1f973b55ad32f5891073dc9cf84ca2c6aa24cc076086d79401f8e312a0446ce0a000a2d1d3d47544ffcd437e9920ed1b83f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tdv7lfX5/versions/dPGXHu6O/nightosphere-2.0.jar"
+      ],
+      "fileSize": 262121
+    },
+    {
+      "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar",
+      "hashes": {
+        "sha1": "a4ad6605706bebca9470a5affe6f44abaef5d507",
+        "sha512": "7d98bd11e72dc95fb30e84d2be9175f2687201451d0e21421074bd225fcbcac8b4bcc1cd1b2dbd5f03e798569cac2f3bcc87c1baba1b1ad002268c578b20a533"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u58R1TMW/versions/e8hSZ4vp/Connector-1.0.0-beta.46%2B1.20.1.jar"
+      ],
+      "fileSize": 5043375
+    },
+    {
+      "path": "mods/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar",
+      "hashes": {
+        "sha1": "e727fcba7efe04bc173211ba5cdf49eea768a9a3",
+        "sha512": "9ccac591f559f1098c374839c3e341315434f3b4bc19e84a16b7ac95061c0f3fe26f227c71f462eab13d465ead6d3228f3eda3120e3479c164508fca786e2c02"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5WeWGLoJ/versions/YUDLu26S/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar"
+      ],
+      "fileSize": 230578
+    },
+    {
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "hashes": {
+        "sha512": "37a13eaa68579dd45204ebdfa43b2909123a2e5e875a2ca51da0d0882d4c524be1e95fce4bb26db21901b7d100ad9363968814e3566d44b5afce8fb8e8088057",
+        "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar"
+      ],
+      "fileSize": 64187
+    },
+    {
+      "path": "mods/spelunkery-1.20.1-0.3.16-forge.jar",
+      "hashes": {
+        "sha1": "d6de614c207775d0522e53d88dea75226e34955b",
+        "sha512": "ad89ff6fc6f3734725fedef065b43bda848766fe5ea5cde83149e3f47421f653f64e9eaececcbc79e25587a4e01523062ccc7dbcdaaf1a15f20c0aa1a8f3b8ab"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/krskFMfA/versions/jW8j0zdc/spelunkery-1.20.1-0.3.16-forge.jar"
+      ],
+      "fileSize": 2754568
+    },
+    {
+      "path": "mods/goop-1.20.x-0.3.jar",
+      "hashes": {
+        "sha1": "ce263e097b06d970949b54e20047d1327e87d0fe",
+        "sha512": "2131b4d3449c311897c4f0030b6bee60a269d90bd9aac6ff0b09006ac18a2a8e26d50f48c88a7bf6a0804e2adeda31d63d6ce16051b6b5043000d8390c280314"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/S8fWq3KT/versions/TaOKwvAa/goop-1.20.x-0.3.jar"
+      ],
+      "fileSize": 85576
+    },
+    {
+      "path": "mods/HerdMentality-Forge-1.20.1-12.0.3.jar",
+      "hashes": {
+        "sha1": "212a2e7604a5c36b4d9a8411ba91a76ca21be897",
+        "sha512": "48d9d49faf3a9196ac364a96402919a8af8d22933d3d4522fd5f2703f3b409c5aabc45e92868511afda07b7e7e2a5b9e106a9a92a519b2994b790efb68154096"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zOBrENMH/versions/RIi6HJO2/HerdMentality-Forge-1.20.1-12.0.3.jar"
+      ],
+      "fileSize": 10085
+    },
+    {
+      "path": "mods/no-enchant-block-2.1.1.jar",
+      "hashes": {
+        "sha1": "e4dfc13135e33f9e2d2f90c426640626736f72f4",
+        "sha512": "c3081aaed2ae7e59727ad8b55a5e9c947ff2fd9296964a33708866bb632df91733d4675d560c77426e018946228c4031c9524429fa7a8446a87918eb96e6d604"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/wP2OLp8w/versions/MpabATyO/no-enchant-block-2.1.1.jar"
+      ],
+      "fileSize": 233954
+    },
+    {
+      "path": "mods/everycomp-1.20-2.7.18.jar",
+      "hashes": {
+        "sha1": "e3e8cbadc78ee49ae1317b838e9d5f08bd8d7e66",
+        "sha512": "fece3631982e27d3da67ea8b3423902d3ba4244ddf1fec20479cd390d9b68c527123f33d8f723425d9e5272ee997b7e1858af1569e0c5a9e84d725a133968d85"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/eiktJyw1/versions/F0T76RLh/everycomp-1.20-2.7.18.jar"
+      ],
+      "fileSize": 2618475
+    },
+    {
+      "path": "mods/underground_rivers_1.0.0.jar",
+      "hashes": {
+        "sha512": "c941a3ac61071bbac17f507654106fbc4af2fd9b60f1328cc5c8641991c157bae933c61251d4924b0861319e20f7a655207739a7613f9c7f37a0968215ca8da7",
+        "sha1": "9d7f333c5c092e64fbf4030a3e3775f5c96f1f5f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Y7J94SaP/versions/SwU1G3Ua/underground_rivers_1.0.0.jar"
+      ],
+      "fileSize": 40592
+    },
+    {
+      "path": "mods/NekosEnchantedBooks-1.19.3-2.0.3.jar",
+      "hashes": {
+        "sha1": "9b7494151519256774e893ca7ac5bffaa17f05b9",
+        "sha512": "0849aca3926110665f83a8e2b9c6ba783eeecf8cd1540d11a74ed07272c97563cdc6ae8692a1654ce65db33c757546efcf5aef7fb4ec14298d860d534d19f4ae"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/VZWuyRVr/versions/VpA4roMg/NekosEnchantedBooks-1.19.3-2.0.3.jar"
+      ],
+      "fileSize": 418925
+    },
+    {
+      "path": "mods/heartstone-1.20-1.3.0.jar",
+      "hashes": {
+        "sha512": "30862afb967c94d28706af4aa63085060aff8ec39dadaaaea5250d29a5ce034ae12a5e3a5cc863bbeb577cf5220267e59fd4554e9db7525a83291fd97cb85965",
+        "sha1": "c79a1b7d4757e9d171251e374e02fc77de8a255a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NBY6AFje/versions/dRYJIPui/heartstone-1.20-1.3.0.jar"
+      ],
+      "fileSize": 256101
+    },
+    {
+      "path": "mods/goated-1.20-1.3.4.jar",
+      "hashes": {
+        "sha512": "35c242f0505142859c0c93cc141ed1a6fad2194bf812967f40630be41035419abdb01561c26d772974e75f9caed26d5c7929dd8147c84140ce2659a161b688f9",
+        "sha1": "e867de58218dc5aeb82b5b7a1868a15027aca1ac"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/L7dBwZPX/versions/llcqlQlI/goated-1.20-1.3.4.jar"
+      ],
+      "fileSize": 932036
+    },
+    {
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "hashes": {
+        "sha1": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa",
+        "sha512": "a4f1431c3abb23d97ae6d742721fcc2d1d97b6f9e72e492cc13f2471b608614b8cbbde513fa0a6f8d002f27168130850bf358d405cd2120c979927d7e88fe3d3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lOOpEntO/versions/Y42wjyly/AttributeFix-Forge-1.20.1-21.0.4.jar"
+      ],
+      "fileSize": 19471
+    },
+    {
+      "path": "mods/entity_texture_features_forge_1.20.1-6.2.9.jar",
+      "hashes": {
+        "sha512": "0d8576c785c689aa39c29f8dbee46b28c308a01a87eaa01a1d405c617b7a30be5ba1e62faeb5f212e44d50ae5a230e48815ac572adaba0c6d3a9e2df47183023",
+        "sha1": "55c8a7db3b4ddd28485c4d2bab7381a756b771c6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/rGt1IuJq/entity_texture_features_forge_1.20.1-6.2.9.jar"
+      ],
+      "fileSize": 676887
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hashes": {
+        "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7",
+        "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+      ],
+      "fileSize": 580602
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "hashes": {
+        "sha512": "185617d6d446f3d4ef6c7d5c6ee4e2fb731a89f7495157313b21292ec6b8e3dbcc10c0379ab49ecb2d0c64d0a78df74750d7f7336d5e6c43516a7c92f278c0a2",
+        "sha1": "5b976f6e76ec74cdef21865e31f56bcb11558db7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar"
+      ],
+      "fileSize": 77732
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "hashes": {
+        "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
+        "sha512": "c17d5b07ecf44aa4539bd7af37882a63ab73ec10dd2c9675ed715e7c1f0ee73ee9d9c32bfddfb67f8f3c6f8b753cb965119e31e64926ea6d50ef33f881fc61f1"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/t5FRdP87/versions/mwlYB7rq/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+      ],
+      "fileSize": 179190
+    },
+    {
+      "path": "mods/OctoLib-FORGE-0.4.2+1.20.1.jar",
+      "hashes": {
+        "sha512": "be8c3ee844e24a6ec68bd805ccae6fc54928aa211f44fb208454a835796e2405765e7cadcff5763782f3d9bc262b44626b69863d83804258501f5e6e0926d96e",
+        "sha1": "d39a7e4d7ebd4e6f427f5c0958b7e2080ba02800"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RH2KUdKJ/versions/9dJfM8hR/OctoLib-FORGE-0.4.2%2B1.20.1.jar"
+      ],
+      "fileSize": 401032
+    },
+    {
+      "path": "mods/continuity-3.0.0+1.20.1.forge.jar",
+      "hashes": {
+        "sha512": "eef634cde3307893e6f0c4c1d2e9a6e3eb706ee1b9ee86403d18c65762f7158e774665e503486477788b0ca320f543d03d5667a94f82ae2cd99f15a32e953b3a",
+        "sha1": "816c1bb15c3686f67143dabced87bd4811cc43d2"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1IjD5062/versions/9KbAcWSO/continuity-3.0.0%2B1.20.1.forge.jar"
+      ],
+      "fileSize": 1016666
+    },
+    {
+      "path": "mods/citreforged-mc1.20.1-1.0.2.jar",
+      "hashes": {
+        "sha512": "c8f2960515e58b75fc8dd61b950dea11a55f7546de98f93ed63548b346a2f08862463c66bc627a9081186dae1f7b6368cd546af57db30de0ff890b8c58ec50d9",
+        "sha1": "ae4235a6295e02c377b369e8b3b08fe0cdaa18da"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/N6u7qVnG/versions/WjwxMOaa/citreforged-mc1.20.1-1.0.2.jar"
+      ],
+      "fileSize": 221864
+    },
+    {
+      "path": "mods/atmospheric-1.20.1-6.0.0.jar",
+      "hashes": {
+        "sha512": "9b42264b2bee60070fdf1f6787cfbb7deae3cd9d7e8d143f36ce055b550a6c81a922e7298f9e84e409b6b39c082c80b46831cee58bd224b4f6ffc20b955be5f1",
+        "sha1": "479b0b008fc048fb66a9e1403728f94740a96ac6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/U9sJOFmJ/versions/wFKEIHk8/atmospheric-1.20.1-6.0.0.jar"
+      ],
+      "fileSize": 3490171
+    },
+    {
+      "path": "mods/brb-1.10.0-rc5+1.20.0-1.jar",
+      "hashes": {
+        "sha512": "0375b3ecd9c30a5d676989771dd1e0827d0eda63907455f85ba5390e5e3480f86b5b200dc0677446e87019893e7f641a0ede564cae2db51bd8ad0d9df070a183",
+        "sha1": "d8b97895d15fb79335965bf7b59c1380963e8471"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vWIaVOTE/versions/OCCEkTGv/brb-1.10.0-rc5%2B1.20.0-1.jar"
+      ],
+      "fileSize": 1240706
+    },
+    {
+      "path": "mods/libertyvillagers-2.0.0+forge+1.20.1.jar",
+      "hashes": {
+        "sha1": "e871b8087dfb7c287d0dc9baafb695941d73d809",
+        "sha512": "408a853bac1599f4e3709b1234cbf2ceea67afc97d3f2f56694928e7b3f05fa2ce0401ab7303600cfdb26e6143182b883f3dcfade4e0cb364dd03216f3b12e5b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/264clomZ/versions/pLlC13lB/libertyvillagers-2.0.0%2Bforge%2B1.20.1.jar"
+      ],
+      "fileSize": 286050
+    },
+    {
+      "path": "mods/chalk-1.20.1-1.6.5.jar",
+      "hashes": {
+        "sha1": "e4dee75dfe5f8ca8ec21f89ff877d3564bd5c9df",
+        "sha512": "49220d73636378eae9f55d3dbeedaddcc2afa8949dc656d1ea2c64625aeda210bee3d28e7f704d0ec652020173025235a1d6fd0ef94797409c08defac622fe57"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YWGP4Y1d/versions/HA8yrJaB/chalk-1.20.1-1.6.5.jar"
+      ],
+      "fileSize": 321480
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.25-1.20.1-Forge.jar",
+      "hashes": {
+        "sha512": "42660cdb51c088a29cbdfb2006d1662b30a2792b626d7f9b0018515e0bfbaa0b333b745d6998fcd1dd462ce71e47e5a3eb88779dc2b9987382ca212246469b41",
+        "sha1": "89f824435c168d5156cd6aa9e90281bb72dc335c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/2qznQtPr/PuzzlesLib-v8.1.25-1.20.1-Forge.jar"
+      ],
+      "fileSize": 1002463
+    },
+    {
+      "path": "mods/amendments-1.20-1.2.18.jar",
+      "hashes": {
+        "sha1": "c9e68c5f2a5d2a12c4726f9d8a9c19523dc08968",
+        "sha512": "60ede016474e57e8929cf4263d255f56d8762cc8f8d1be8c2c16946b0a7b80c38faec525c65bc3d377a4e51fcfe812ac7abd387eeac88ba7e247f9726e17ab7b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6iTJugQR/versions/zMu0Lu83/amendments-1.20-1.2.18.jar"
+      ],
+      "fileSize": 1031019
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "hashes": {
+        "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+        "sha512": "2c67db8caf355f2e3b4a6f2b99c64abfa3b084163b38e18aba7f8ad0fb297fab3bfa7a61cd6bff5391fdaad185ed8233f22080a2cd35f1428d2d04dbfdf10a1d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3dT9sgt4/versions/SN4iZ7wf/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+      ],
+      "fileSize": 1033262
+    },
+    {
+      "path": "mods/explosiveenhancement-forge-1.20.1-1.1.0-client.jar",
+      "hashes": {
+        "sha512": "0e15414e26feb9616192af218040468ebc45f6fd0cb220df2dfba77a7174cb51f6cb019735cd7f7f36c95800268ac9695d5f1ec73e55f7bf1065002013413c07",
+        "sha1": "fcea37ff4cbd3302e0f1976264c98c8e874d713b"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/r0camchr/versions/WZmrfQAK/explosiveenhancement-forge-1.20.1-1.1.0-client.jar"
+      ],
+      "fileSize": 85868
+    },
+    {
+      "path": "mods/SubtleEffects-forge-1.20.1-1.9.0.jar",
+      "hashes": {
+        "sha512": "4bb41319fcc366378a96b17b3841902a55b7a4e5821e42711c75664c1b0d8854d241c3cd3601641fcb45e235f2d1aa4fb2f2acf9e0d9521b370671bc2ff7af92",
+        "sha1": "e8ecf5fbc3d1739541187d0a1d0df887b1841d80"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4q8UOK1d/versions/I7wj6mva/SubtleEffects-forge-1.20.1-1.9.0.jar"
+      ],
+      "fileSize": 1805165
+    },
+    {
+      "path": "mods/astrocraft-1.4.5+1.20.1.jar",
+      "hashes": {
+        "sha1": "f0dbd071eb0241aecc5b23b8bc1695ce0b89c781",
+        "sha512": "82083d5d28d5591d49f3785974fa1b05e96a7e6e1c70bff1f6542c8807e20be6dcdcaa96d66f09f967a60a3e96330b1a031474c3e63a15b51b49d1afda168451"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DCWEXia7/versions/ggNG0iQZ/astrocraft-1.4.5%2B1.20.1.jar"
+      ],
+      "fileSize": 14466003
+    },
+    {
+      "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.1.jar",
+      "hashes": {
+        "sha1": "49ba7b3bc01c8c2d3e11044c509cbcc56cd572ea",
+        "sha512": "4ec66a79a0ac51afc18096d4617e33a68a4d126f94e91078885575dfa01ab9c575484f4109f3c0799c8d50f62c23551514f4f3b728c2e6a559f771eb950110bb"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/e0bNACJD/versions/YbNaHCmA/SereneSeasons-forge-1.20.1-9.1.0.1.jar"
+      ],
+      "fileSize": 159838
+    },
+    {
+      "path": "mods/idmid-1.0.1-1.20.1.jar",
+      "hashes": {
+        "sha1": "8bc6ff216758bc32a57a0ad3c405834f7dbdb202",
+        "sha512": "b49f7b67c5970244844849c6c18af12f1ddff1308e5d81bdbfd8d6deafa5983a68065d75ccdb01d06a6ca9ab9a64fd7ac96d0e8e8a7c80a880509a1aa27f6a60"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/pZE4jkBM/versions/fVqDyPYr/idmid-1.0.1-1.20.1.jar"
+      ],
+      "fileSize": 13476
+    },
+    {
+      "path": "mods/CombatNouveau-v8.0.5-1.20.1-Forge.jar",
+      "hashes": {
+        "sha512": "071ee7039b1d319bb73c1eaf1cdd72700650997d8c0536709881cfe13fde3182a8ee9e826f443d160b962067aa44f916b05ff3f89f9bb5f687d5cea9cf1ba72e",
+        "sha1": "8ccd73ee2dbb65b96851b77dcfcbda484123b72b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Iv3kcKZn/versions/rB3qvqaE/CombatNouveau-v8.0.5-1.20.1-Forge.jar"
+      ],
+      "fileSize": 111738
+    },
+    {
+      "path": "mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+      "hashes": {
+        "sha512": "757e11d6bda175025b88688becd0e70fec8f00d50ee0861537968a79f1053853c4c8845ba62bb689b8734ec7f0c8c2f1029fb1daf897152337662bbc5b47c438",
+        "sha1": "83cccb66e679d72345a5194e4ca520f647bc97e6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GkIc6rRo/versions/XWZQbKsr/CerbonsAPI-Forge-1.20.1-1.1.0.jar"
+      ],
+      "fileSize": 241148
+    },
+    {
+      "path": "mods/itemswapper-fabric-0.7.5-mc1.20.1.jar",
+      "hashes": {
+        "sha512": "f6782afe5ce87fa12eb58765674974aab9585bbf32b3bb357b6f5ed56f2852de24c752a01a4ad1782923cd05bbd6d9941831944d5b6ddcc2a29cfcd9934c3ae4",
+        "sha1": "5ef223c6336e6664085b0d17feea183f85c1a239"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RPOSBQgq/versions/al1cLyeD/itemswapper-fabric-0.7.5-mc1.20.1.jar"
+      ],
+      "fileSize": 891742
+    },
+    {
+      "path": "resourcepacks/Fresh Skeleton Physics.zip",
+      "hashes": {
+        "sha512": "549eaac2a75a04a33041ee875ab176dbfdae372688098a8898e4954428e45a97648f5733cad0e45861c0c331aa550e3dd47b7bd3488976806ab916657861530c",
+        "sha1": "c10e6d18f0907f6fdcbd65b9f11458c566912c91"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XZhhYcY0/versions/zpPkiElr/Fresh%20Skeleton%20Physics.zip"
+      ],
+      "fileSize": 41276
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-12.1.785-forge.jar",
+      "hashes": {
+        "sha512": "c229232ce96368e16631ac0557caa2b14f3ee2c5d587241da7889b142aecb61eb68dd400f60f368951ffc741f2d375732daf2bf5a46ced239a6e4bb692066110",
+        "sha1": "9289cb01c920c1e539034f53ba3736095a2d4410"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nfn13YXA/versions/IoS2AjPk/RoughlyEnoughItems-12.1.785-forge.jar"
+      ],
+      "fileSize": 2384003
+    },
+    {
+      "path": "mods/better_smithing_ui-forge-1.20+2.0.0.jar",
+      "hashes": {
+        "sha512": "900b9b579f7d0d173a9f6f38c0a2e4584f27dc7b45b8cb9c109d916976534221c13d5ee5bd90e831163c82b71648a13247cf8a6c6fa497a541cd24a6e7b5bb9a",
+        "sha1": "33a2984786955d61ee3ee9d3c79b943e29c70c25"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Vt8TI045/versions/aYAKgt35/better_smithing_ui-forge-1.20%2B2.0.0.jar"
+      ],
+      "fileSize": 22339
+    },
+    {
+      "path": "mods/bedspreads-forge-6.2.0+1.20.1.jar",
+      "hashes": {
+        "sha512": "d2304e89ca5e314ae4c9cdb06562e6121525d1c5b765b296147f1a682105bb69a51df53f2d2061e51290ebcbcec89368ebb69dd41eb084d4e5bb52d7fc3d1164",
+        "sha1": "dd231d7a0bc85a690460cf2d03fd69516c4358cf"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vNNL5mc7/versions/16t0eTJl/bedspreads-forge-6.2.0%2B1.20.1.jar"
+      ],
+      "fileSize": 117638
+    },
+    {
+      "path": "mods/convenientnametags-1.1.0.jar",
+      "hashes": {
+        "sha512": "2598ea5744a15c1abaff267bd8ff0843793c8d28805784aaa89bf154dc4abbfb26b2cd1a7664b7f1bc5231f8c6b930fbaefaf8b4bc6c0d323eef57acc1b44729",
+        "sha1": "d3aa71a319b6f77933111d16af952d7839d01836"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/eUsHC1iS/versions/fH6ByzpF/convenientnametags-1.1.0.jar"
+      ],
+      "fileSize": 96289
+    },
+    {
+      "path": "mods/wetland_whimsy-1.1.5-1.20.1.jar",
+      "hashes": {
+        "sha1": "c8dbbbf0e32d178fa7662886b2adee7be4206cff",
+        "sha512": "7b86a2b8d3ef325295ce1062e97544532bafdc1a76aa075c104ba689994e3ad995f444572a742ec1448e4a88a12f8ce25a28a3587096ba5b47f197f674899ec4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/PsS0ZPEe/versions/TGhZhwgr/wetland_whimsy-1.1.5-1.20.1.jar"
+      ],
+      "fileSize": 2930444
+    },
+    {
+      "path": "mods/another_furniture-forge-1.20.1-3.0.1.jar",
+      "hashes": {
+        "sha512": "2a94115244184390d54804a921a1780b43fa0dcbc76fa1c1927d691b734ba3830a82cbb121d53131bc5df7dacdf6dc79d968d3282ff493e4058a697d91f38086",
+        "sha1": "7257a28594012cdd905e581c54bce6749228a016"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ulloLmqG/versions/cmWbslFO/another_furniture-forge-1.20.1-3.0.1.jar"
+      ],
+      "fileSize": 2746864
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.16.jar",
+      "hashes": {
+        "sha512": "819f730d2a9d980bb246d30d67793f06f6a1608381c7ce3577cf25e70dd3d595271f8fcfbf3ae037168842f660e79e49846756bd18c79793b310ff18ab826cbd",
+        "sha1": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/umyGl7zF/versions/g5igndAv/kubejs-forge-2001.6.5-build.16.jar"
+      ],
+      "fileSize": 1654660
+    },
+    {
+      "path": "mods/hauntedharvest-1.20-3.2.0.jar",
+      "hashes": {
+        "sha1": "831c5686cde07106f958007962d6c5892c979f2e",
+        "sha512": "6406232aee1abc3be3a32c702d3bce3d99481f9fdc1631cf564aa1d1276a35801992f2f3d945ce3720e11d7dda8df3ee27d8e8bb910ee689c4cc8aa1b89ce318"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/a378ICDH/versions/Bg0FkKzl/hauntedharvest-1.20-3.2.0.jar"
+      ],
+      "fileSize": 718867
+    },
+    {
+      "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "hashes": {
+        "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
+        "sha512": "20b11f1582df3df3d351e0cffcfc8b97453e2d73164fbad46d3f4eb960cab57d8f708d84b818782ef019d5cd9494ce001161f753623680516a191d6f510ebb79"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Es5v4eyq/versions/d0EFLitO/sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+      ],
+      "fileSize": 443978
+    },
+    {
+      "path": "mods/Hearths v1.0.2 f12-61.jar",
+      "hashes": {
+        "sha512": "ad21e2f3fae69b150f955c0592721f564043d54aef533922c7443df0816bc84d6d1242c5444fe7d4536553029f045733ab252b9f47ac4d0c1974dbcdc6950f8a",
+        "sha1": "045a83aeb91f576d4feb92f9fe89d15f04840bd2"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XCIMrYn0/versions/5k2kJNGP/Hearths%20v1.0.2%20f12-61.jar"
+      ],
+      "fileSize": 340146
+    },
+    {
+      "path": "mods/crops_love_rain-1.4.0.jar",
+      "hashes": {
+        "sha1": "7ba361a92ecbd95109ba19917bbb680adba868be",
+        "sha512": "29a3e7657737d7b0615be8f9c099252145fdc4dbefb95c8133f63df2938c74f045d5b20bdd4fae19645e6318311f9fe6b39aa892292ae8b4a0a046168d9cb0df"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cRci7UZp/versions/4jfKIA1o/crops_love_rain-1.4.0.jar"
+      ],
+      "fileSize": 590365
+    },
+    {
+      "path": "mods/Oreganized 1.20.1-3.1.2.jar",
+      "hashes": {
+        "sha1": "6b328b92bd44e00c9950fa105ccd719f3664661d",
+        "sha512": "206255caa8ff98bcf624da93c532e330c5585d1225b273e915fa19037c8507a22fa2fefc9887c64df5a76dcedd97c8ddb9c5e51fdd785de40ade744b834a509f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2FJutzEL/versions/ySzdygKr/Oreganized%201.20.1-3.1.2.jar"
+      ],
+      "fileSize": 6674089
+    },
+    {
+      "path": "mods/hoetweaks-1.20.1-3.6.jar",
+      "hashes": {
+        "sha512": "79d0e2a4dcb96ab0f5639dfe6c34177b4e15012bb666961a8bdc1adbda921366775e96196af5584a64ab8f29865d9c6ca75c51d775ff1d1c406dcd8d06c30bf3",
+        "sha1": "f9eb647a6e975673141540e66950395ed688f9c7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9vlChzlU/versions/vXFn7L4a/hoetweaks-1.20.1-3.6.jar"
+      ],
+      "fileSize": 29552
+    },
+    {
+      "path": "mods/Copperative 1.20.1--1.1.0.jar",
+      "hashes": {
+        "sha512": "0978b85462fcd285ba59fc5997b4d33859a56d30132d4ce1d4e5ffbfcf533afda6d73f10086261bcdaac6525a2269d8464c8c726a416a74f808404d4ce9319b3",
+        "sha1": "2210fd0bc4d2659abda1908a54821628b1f7b275"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/f9rb8trZ/versions/ydByddwE/Copperative%201.20.1--1.1.0.jar"
+      ],
+      "fileSize": 737792
+    },
+    {
+      "path": "mods/Galosphere-1.20.1-1.4.1-Forge.jar",
+      "hashes": {
+        "sha512": "b8da969941750d8e6aad849400e0cb313cdcefc03385c77c1514d2569eb7e05f03c59f277527ad8ccb4005e3b3d9a4c93cd789466f9ee018cbdc9f3ff9a45118",
+        "sha1": "0b21651dc768383bcd4b6cc417335b4c43d208b3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/JCd7hBd9/Galosphere-1.20.1-1.4.1-Forge.jar"
+      ],
+      "fileSize": 34909449
+    },
+    {
+      "path": "mods/defaultoptions-forge-1.20-18.0.1.jar",
+      "hashes": {
+        "sha1": "73af2309627a68a7bff3e53e02ea22fb5c4651e5",
+        "sha512": "41ab37f580a1cbcb063958b7ec6034c9bea729aecb5452e5982a21d068617a818e78d31f03e76fc4e06dbf73f066f576d9dd6566f70d4912f29b595ba5c54079"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WEg59z5b/versions/CKNINccT/defaultoptions-forge-1.20-18.0.1.jar"
+      ],
+      "fileSize": 87942
+    },
+    {
+      "path": "mods/kotlinforforge-4.11.0-all.jar",
+      "hashes": {
+        "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+        "sha512": "d72707078f0c4fde78981c638ca976722f22a64ce74bdb489258790fe9886d763a7b1e0dfbc5429ddd3105d8a65d177f06242dfb1457e219e56c70dd3e8cbf2c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar"
+      ],
+      "fileSize": 7193768
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.7.jar",
+      "hashes": {
+        "sha512": "4efd2d70533d73fc70012b0969bac9fb6035a4ebcc8b6ccb692321456bcc044da93a12b44392fca3c607889c134acd41db9e0fed376151a46d5391c56881a149",
+        "sha1": "451226923e02ac708b8fe59d75a2f9a28cc7e467"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar"
+      ],
+      "fileSize": 1004043
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.18-all.jar",
+      "hashes": {
+        "sha1": "f38acb3518b72f64791b4755099bf2680e1f98f4",
+        "sha512": "0f6ce46a391e24a0237864a0d53d85b90b646900b41c003263608a11fed25ec6a93bd92f632a031e82209007b5a031b8e2484d6453bd3096787fe1f1acebb84c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/za1mJSJs/balm-forge-1.20.1-7.3.18-all.jar"
+      ],
+      "fileSize": 442600
+    },
+    {
+      "path": "mods/TheOuterEnd-1.0.10.jar",
+      "hashes": {
+        "sha512": "00df9f08c839b68d3514f375af562cd3f24406edc7bdc896bbf53cd159406cca9f3db8bde6014b04226506ae5f05b92fc85d8d7a1c9159908f9e44459319112b",
+        "sha1": "9269f3e7caeeb32045ed6cf5be2c48a772d272e8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/X8s97ySO/versions/5hPsRMLc/TheOuterEnd-1.0.10.jar"
+      ],
+      "fileSize": 25018793
+    },
+    {
+      "path": "mods/itsstillexplosive-1.20.1-1.1.0.jar",
+      "hashes": {
+        "sha1": "c2705a876a009812a216fc7ce754710ca3974e77",
+        "sha512": "0daa3697dc9bc92eff1a3a6d351c69a4ff2e31c5497bb2b12c7f27c685580b449c0a24d4a0e30dc12b0b0a629fe6715ce722228426a018b93601e066483d31d1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IRfEcbdS/versions/C8riP4SM/itsstillexplosive-1.20.1-1.1.0.jar"
+      ],
+      "fileSize": 84490
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "hashes": {
+        "sha512": "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889",
+        "sha1": "af584b690f5646c6032002b58abc4591beed3833"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar"
+      ],
+      "fileSize": 370524
+    },
+    {
+      "path": "mods/footprintparticle-0.5.2-mc1.20.jar",
+      "hashes": {
+        "sha512": "88e3f74aa6d40a4f8616bda81a82ebe2003bfdbb9b5a3ac03a777c0af4b21bf84e4feaea87ec7eebf6708a9adce0e40ac0f7813c3977aaf407393f140c731914",
+        "sha1": "fde6a5d9c4f708367d32eb9eeef0b2762a019d2c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xZQOoOaY/versions/EmLTEZM2/footprintparticle-0.5.2-mc1.20.jar"
+      ],
+      "fileSize": 87928
+    },
+    {
+      "path": "mods/Pretty Rain-1.20.1-Forge-1.1.0.jar",
+      "hashes": {
+        "sha512": "1902ee76c7bf3a56bbf5c42c67d70c3797c205ce9ee6ab930ec3fd4282c0db50c8b02c2043611486e5f9b79ec4694d3d7f868ef9efd65b1568c852e86e0c346e",
+        "sha1": "fefefeef1a81aafa2ddd83330129aa5d9eee6767"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IhZuHxkl/versions/TGjK6ChS/Pretty%20Rain-1.20.1-Forge-1.1.0.jar"
+      ],
+      "fileSize": 599372
+    },
+    {
+      "path": "resourcepacks/FA+Quivers-v1.1.zip",
+      "hashes": {
+        "sha512": "2fa6a4ee4e19b07dc0c044cafd9d9d9097d30ca042cc172a02aa70c6cf7270af896272c2e20fe7ff5e48a9dd18e4a4516ec632c94084f65a59bf5ae216dcca0f",
+        "sha1": "d5e4b8a14dbf176d75f37e7e4e16a9afe2e9732a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YAVTU8mK/versions/JvU72euu/FA%2BQuivers-v1.1.zip"
+      ],
+      "fileSize": 65551
+    },
+    {
+      "path": "mods/saplanting-1.20.1-forge-1.3.1.jar",
+      "hashes": {
+        "sha1": "049107d68f200a7e758d29f8070777184b4e64a1",
+        "sha512": "115899400c6bac50ea83f1e6119daf2e9998cacdbb4ba38925edfe39dd9aa6acf0ffc3f33ada31f5f221544baaa5eb1b1c73c5375d30e16a104ac5f6c7153ef5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Vo4uFiz0/versions/eB58rzJT/saplanting-1.20.1-forge-1.3.1.jar"
+      ],
+      "fileSize": 46775
+    },
+    {
+      "path": "mods/visuality-forge-2.0.2.jar",
+      "hashes": {
+        "sha1": "1f0547f3ba508156cd4630bf793df464230e04f3",
+        "sha512": "b9e980655580abc4cd60dddc3ddde4650768086280417c4ebd66c4487919a4b905ea246f544ecfb126999fdf356209b2c8c2a87f7c3080fc6c272892d47f72f8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/z13R7Et1/versions/MyhpSYT4/visuality-forge-2.0.2.jar"
+      ],
+      "fileSize": 215750
+    },
+    {
+      "path": "mods/rrls-4.0.6.1+mc1.20.1-forge.jar",
+      "hashes": {
+        "sha512": "825f037e40e904b11f2744e2b6fa2823b7cef41ec9e71c10cf71dd89233ed15a9c4687376af32d9e2ec50be92db3bb0ef818712eb88654489aedf35efd726079",
+        "sha1": "c8f154b0b03dde15c5e901fc7c0c7c701466211d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZP7xHXtw/versions/DMHJY7vL/rrls-4.0.6.1%2Bmc1.20.1-forge.jar"
+      ],
+      "fileSize": 277896
+    },
+    {
+      "path": "mods/endercon-1.0.2.jar",
+      "hashes": {
+        "sha1": "fa22869e922c0bfd9f819a589e730926879303db",
+        "sha512": "c93f52d17fced5717adef26976fdf6a23067c225fc3692d28dbf278ad723d90ca0482cba1c892124c2791dd2a614a4100f588189a0ae9746572dea39405b3746"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/wr1BCv8H/versions/30L19LKA/endercon-1.0.2.jar"
+      ],
+      "fileSize": 135276
+    },
+    {
+      "path": "mods/fixedanvilrepaircost-1.20.1-3.5.jar",
+      "hashes": {
+        "sha1": "db8aed8c2cd5eed58e7ba5d55bf4bb28d76b0acc",
+        "sha512": "caf0b4b2a86a94793328c9c278989261e01f48429fa27409fa83f8fcdede7a8399f266448c3899db3a95d71e939de9a382aed8cd59ab61944549b53ff9c881d6"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jmLyNFBG/versions/fDXv4XYw/fixedanvilrepaircost-1.20.1-3.5.jar"
+      ],
+      "fileSize": 31858
+    },
+    {
+      "path": "mods/Block Swap-forge-1.20.1-5.0.0.0.jar",
+      "hashes": {
+        "sha512": "4227b864ae79eadf2afef5ca79888f135732e85a1feece7022a87d66be23855f184d6018ab69b7b3a7be3847e1da8fd4b6e4954ab853a9bf10e6110e9912c9a4",
+        "sha1": "87c5ded19cbcb561d85222611604542f07e9c509"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/f9kXyjJX/versions/XBaeaswr/Block%20Swap-forge-1.20.1-5.0.0.0.jar"
+      ],
+      "fileSize": 308584
+    },
+    {
+      "path": "mods/elytratrims-forge-3.5.7+1.20.1.jar",
+      "hashes": {
+        "sha1": "0d85792b2f36ee63abc24658183445fb4d54a9f7",
+        "sha512": "4f57a9590bd188d10ecb504bd130fb8046f07bf5a20be469a19044885e20649fa0fbf717a01ee412c5e72ca475480da450d00ae0f25085a206c858a28e647c60"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XpzGz7KD/versions/7HHgNGAc/elytratrims-forge-3.5.7%2B1.20.1.jar"
+      ],
+      "fileSize": 786862
+    },
+    {
+      "path": "mods/HorseBuff-1.20-2.1.2.jar",
+      "hashes": {
+        "sha1": "e834c5d06af3b47a9ae38dd7cd9fb02a10f5619b",
+        "sha512": "15cf5c89b538191ec975cc4b0d7bcf4bfd07dbb089ab735a21e2bfb30c2080051df2c9af609f842a75a4a81d4e3b4dd061b2fe768e2e9982ee8732ab1c91cbee"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IrrG0G8l/versions/20xITMg4/HorseBuff-1.20-2.1.2.jar"
+      ],
+      "fileSize": 1425730
+    },
+    {
+      "path": "resourcepacks/§aChests§8-§aReimagined§0_§8[v1.6.1]§0.zip",
+      "hashes": {
+        "sha512": "c3dab17ae4bb54d235261872beecd5f34e196cea36c912bd09cf5089fbec5ff659e804d9a254590835fc4f5f7970a6a4670832ccf60e4c3cda88bf39c2dd7fd5",
+        "sha1": "a50ac939e2a4a7a08fffc0b739fa93b58028b634"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/irAi0fTI/versions/uDCgb5Cz/%C2%A7aChests%C2%A78-%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.6.1%5D%C2%A70.zip"
+      ],
+      "fileSize": 408484
+    },
+    {
+      "path": "mods/snowundertrees-1.20.1-1.4.9.jar",
+      "hashes": {
+        "sha512": "7af53a34459d1f13cf6994ccf8163d3c47fce8456e1fc0d8b2db64c0924f67004b41f3de3baea4130c34715a7bb94ef7c8e8cb5f5878c1413601fd6e71328f29",
+        "sha1": "0f1d4060971502ed310bd072d1218b40e1a66c1b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Q3vyMuj2/versions/DCAsGp2c/snowundertrees-1.20.1-1.4.9.jar"
+      ],
+      "fileSize": 27120
+    },
+    {
+      "path": "mods/modernfix-forge-5.20.2+mc1.20.1.jar",
+      "hashes": {
+        "sha512": "e34badc237b2ef3e763d0d45a8a0d0c9f361e6b87ce02ccc92bd978855736713ace08069d7f3f78331b109f86dfa824a76329fed1affa9b2c63c195112b03c13",
+        "sha1": "23d49f71d56de4fdb8ec046507a42c48594daadb"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/LmgaF8pW/modernfix-forge-5.20.2%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 821631
+    },
+    {
+      "path": "mods/txnilib-forge-1.0.22-1.20.1.jar",
+      "hashes": {
+        "sha1": "52fc0e482ca7f50dfe1099150ca6c5623c70ef4f",
+        "sha512": "1314e1a5b0dd1accd4c9d105bf554d5439777407b0f47292b8c2bec6f3486c9925ec260577aecf526a15ee078c1379f17d66b40ffdcfb4f8d4bd31b70acd5adf"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vBbPDuOs/versions/p7eMb4Jf/txnilib-forge-1.0.22-1.20.1.jar"
+      ],
+      "fileSize": 3740385
+    },
+    {
+      "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "hashes": {
+        "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+        "sha512": "b8527199be5a8b4bc758a4f320586b5886e6ff657718f52d464386b1e3c695d7bfe644e2ef9487a869c93c0866818995ecd47b9e1a19054929242682e37f58b7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/PxQSWIcD/versions/I156ee3A/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+      ],
+      "fileSize": 511601
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "hashes": {
+        "sha512": "7fbb51f761ca1a514ce95e9967bcc93c09766a8929f19029390d46b18d7e876c4354d11350a5f8410dc28e485680f4eaf1019e4bd074cff34e8cfc5b232480d4",
+        "sha1": "3730238c56edca4bb5b2238e1314aec572ced385"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kidLKymU/versions/rwiShgsc/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+      ],
+      "fileSize": 473564
+    },
+    {
+      "path": "mods/moremcmeta-1.20.1-4.5.2-forge.jar",
+      "hashes": {
+        "sha1": "6046753a29d6963ad2a9c557b557bd7a2d793354",
+        "sha512": "b13db1cea49baeca40f5d345c88233f05beca5d3607fbabd05498a86c6e68ddc57593360f786f3cf856ce76a7b685f20ff65d89f8d3712ef79068a836cea3dcb"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/HFlxNpln/versions/1Gk4ti96/moremcmeta-1.20.1-4.5.2-forge.jar"
+      ],
+      "fileSize": 554659
+    }
+  ],
+  "dependencies": {
+    "forge": "47.3.33",
+    "minecraft": "1.20.1"
+  }
+}

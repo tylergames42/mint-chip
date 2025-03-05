@@ -13,6 +13,7 @@
 			soul_sandstone = true
 			midori = true
 			duskbound = true
+			shingles = true
 
 		[types.stone_type.supplementaries]
 			ash = true
@@ -25,6 +26,9 @@
 
 		[types.stone_type.wetland_whimsy]
 			limestone = true
+
+		[types.stone_type.upgrade_aquatic]
+			coralstone = true
 
 	[types.wood_type]
 
@@ -153,4 +157,18 @@
 		[entries.leaves_type.quark]
 			hedge = true
 			leaf_carpet = true
+
+	[entries.stone_type]
+
+		[entries.stone_type.quark]
+			pillar = true
+			polished_vertical_slab = true
+			vertical_slab = true
+
+	[entries.mud_type]
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
 
